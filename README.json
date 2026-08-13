@@ -28,7 +28,7 @@
             "last_commit": "2026-02-27T13:12:11Z",
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19818
+            "stars": 19825
           }
         },
         {
@@ -38,8 +38,8 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-15T08:06:51Z",
+            "language": null,
+            "last_commit": "2026-08-13T10:56:45Z",
             "owner": "accomplish-ai",
             "repo": "coworker",
             "stars": 10951
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-08T19:04:44Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 67985
+            "stars": 67999
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-01-27T04:57:26Z",
             "owner": "bytedance",
             "repo": "UI-TARS",
-            "stars": 11330
+            "stars": 11333
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 178
+            "stars": 530
           }
         },
         {
@@ -183,10 +183,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:29:59Z",
+            "last_commit": "2026-08-13T18:05:45Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186572
+            "stars": 186589
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2025-09-12T19:35:46Z",
             "owner": "bytebot-ai",
             "repo": "bytebot",
-            "stars": 11086
+            "stars": 11087
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-08-03T22:00:27Z",
             "owner": "microsoft",
             "repo": "Webwright",
-            "stars": 5905
+            "stars": 5908
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-12T03:32:38Z",
             "owner": "browser-act",
             "repo": "skills",
-            "stars": 5360
+            "stars": 5365
           }
         },
         {
@@ -239,10 +239,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:34:38Z",
+            "last_commit": "2026-08-13T17:59:01Z",
             "owner": "feder-cr",
             "repo": "invisible_playwright",
-            "stars": 1880
+            "stars": 1883
           }
         },
         {
@@ -267,7 +267,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:08:53Z",
+            "last_commit": "2026-08-13T18:04:02Z",
             "owner": "hud-evals",
             "repo": "hud-python",
             "stars": 291
@@ -309,7 +309,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-30T08:34:31Z",
+            "last_commit": "2026-08-13T08:34:29Z",
             "owner": "steel-dev",
             "repo": "atlas",
             "stars": 17
@@ -346,7 +346,7 @@
             "last_commit": "2026-08-02T02:49:24Z",
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6906
+            "stars": 6908
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2024-11-18T09:39:29Z",
             "owner": "xlang-ai",
             "repo": "OpenAgents",
-            "stars": 4855
+            "stars": 4854
           }
         },
         {
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:30:51.561Z",
+    "last_updated": "2026-08-13T18:06:27.045Z",
     "original_repository": "steel-dev/awesome-web-agents",
     "original_repository_sha": "4fe085085b2c8a7d6d295b7ed34a1fc4e91bf431",
     "enhanced_repository": "enhansome/enhansome-web-agents",
