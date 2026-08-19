@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 624681066,
             "language": "TypeScript",
             "last_commit": "2025-04-29T01:19:32Z",
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36304
+            "stars": 36305
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 914316754,
             "language": "Python",
             "last_commit": "2026-02-27T13:12:11Z",
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19842
+            "stars": 19849
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1134220362,
             "language": null,
             "last_commit": "2026-08-13T10:56:45Z",
             "owner": "accomplish-ai",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 779019589,
             "language": "Python",
             "last_commit": "2026-05-04T07:51:00Z",
             "owner": "EmergenceAI",
@@ -66,63 +70,68 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 747508951,
             "language": "Python",
             "last_commit": "2024-03-04T03:36:39Z",
             "owner": "MinorJerry",
             "repo": "WebVoyager",
-            "stars": 1120
+            "stars": 1121
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenInterpreter",
+              "description": "An open-source CLI based agent that can write & execute code as well as control your browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666299222,
+                "language": "Rust",
+                "last_commit": "2026-08-19T11:41:32Z",
+                "owner": "openinterpreter",
+                "repo": "openinterpreter",
+                "stars": 68069
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UI-TARS",
+              "description": "A GUI agent model designed to interact seamlessly with GUIs using human-like perception, reasoning, and action capabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 918932479,
+                "language": "Python",
+                "last_commit": "2026-01-27T04:57:26Z",
+                "owner": "bytedance",
+                "repo": "UI-TARS",
+                "stars": 11353
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Self-Operating Computer Framework",
+              "description": "A framework to enable multimodal models to operate a computer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 714143245,
+                "language": "Python",
+                "last_commit": "2025-09-19T19:31:39Z",
+                "owner": "OthersideAI",
+                "repo": "self-operating-computer",
+                "stars": 10286
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Computer-use Agents"
         }
       ],
       "title": "Autonomous Web Agents"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenInterpreter",
-          "description": "An open-source CLI based agent that can write & execute code as well as control your browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T18:27:04Z",
-            "owner": "openinterpreter",
-            "repo": "openinterpreter",
-            "stars": 68055
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UI-TARS",
-          "description": "A GUI agent model designed to interact seamlessly with GUIs using human-like perception, reasoning, and action capabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-27T04:57:26Z",
-            "owner": "bytedance",
-            "repo": "UI-TARS",
-            "stars": 11351
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Self-Operating Computer Framework",
-          "description": "A framework to enable multimodal models to operate a computer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-19T19:31:39Z",
-            "owner": "OthersideAI",
-            "repo": "self-operating-computer",
-            "stars": 10286
-          }
-        }
-      ],
-      "title": "Computer-use Agents"
     },
     {
       "description": "Tools, frameworks and libraries that translate natural language instructions into web interactions.",
@@ -134,6 +143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 715367684,
             "language": "Python",
             "last_commit": "2024-09-25T21:47:45Z",
             "owner": "ishan0102",
@@ -148,11 +158,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1232322871,
             "language": "TypeScript",
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 927
+            "stars": 943
           }
         },
         {
@@ -162,175 +173,188 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1144072510,
             "language": "Kotlin",
             "last_commit": "2026-07-11T19:33:14Z",
             "owner": "platonai",
             "repo": "PulsarRPA",
             "stars": 1
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AutoGPT",
+              "description": "Experimental agent for task completion and web browsing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614765452,
+                "language": "Python",
+                "last_commit": "2026-08-19T06:48:27Z",
+                "owner": "Significant-Gravitas",
+                "repo": "AutoGPT",
+                "stars": 186683
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bytebot",
+              "description": "Containerized computer use agent framework with a virtual desktop environment.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 926709003,
+                "language": "TypeScript",
+                "last_commit": "2025-09-12T19:35:46Z",
+                "owner": "bytebot-ai",
+                "repo": "bytebot",
+                "stars": 11088
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Webwright",
+              "description": "Browser agent framework from Microsoft Research where the agent writes and runs Playwright scripts in a terminal workspace; supports OpenAI, Anthropic, and OpenRouter backends.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1204415882,
+                "language": "Python",
+                "last_commit": "2026-08-03T22:00:27Z",
+                "owner": "microsoft",
+                "repo": "Webwright",
+                "stars": 5929
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BrowserAct",
+              "description": "Browser automation CLI and skills for AI agents to operate real browsers, manage sessions, support human handoff, and capture screenshots and evidence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1151333143,
+                "language": "Python",
+                "last_commit": "2026-08-12T03:32:38Z",
+                "owner": "browser-act",
+                "repo": "skills",
+                "stars": 5355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "invisible-playwright",
+              "description": "Playwright wrapper for a stealth-patched Firefox 150 build. Drop-in replacement returning native Playwright Browser objects; spoofing happens in C++ source with no JS-level overrides.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1237338198,
+                "language": "Python",
+                "last_commit": "2026-08-18T23:09:02Z",
+                "owner": "feder-cr",
+                "repo": "invisible_playwright",
+                "stars": 1908
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tarsier",
+              "description": "Vision utilities library for web interaction agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 716799237,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-11-25T07:50:59Z",
+                "owner": "reworkd",
+                "repo": "tarsier",
+                "stars": 1762
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HUD",
+              "description": "Open-source SDK for building browser and computer-use RL environments to evaluate and train web agents, with task-based verifiable rewards runnable as evals or RL training across any model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 941344611,
+                "language": "Python",
+                "last_commit": "2026-08-19T08:48:14Z",
+                "owner": "hud-evals",
+                "repo": "hud-python",
+                "stars": 291
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lumen",
+              "description": "Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider (Anthropic, Google, OpenAI), action caching for zero-token reruns.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1170263480,
+                "language": "TypeScript",
+                "last_commit": "2026-03-30T01:28:40Z",
+                "owner": "omxyz",
+                "repo": "lumen",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agent Browser Shield",
+              "description": "Browser extension that sits between an AI agent and the page, stripping prompt injection, masking PII/credentials, and removing dark patterns before content reaches the model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1253999202,
+                "language": "TypeScript",
+                "last_commit": "2026-08-15T13:24:20Z",
+                "owner": "pixiebrix",
+                "repo": "agent-browser-shield",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Atlas",
+              "description": "Open-source deep research harness for building cited web research agents with ledger-based coverage audits, pluggable search providers, and Steel-backed browser fetches.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1239209837,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T08:34:29Z",
+                "owner": "steel-dev",
+                "repo": "atlas",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BrowserTrace",
+              "description": "Local-first trace viewer for debugging Playwright, Browser Use, Stagehand, and other web-agent runs with redacted shareable exports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1221453647,
+                "language": "Python",
+                "last_commit": "2026-05-14T09:43:04Z",
+                "owner": "aaronlab",
+                "repo": "browsertrace",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dev Tools"
         }
       ],
       "title": "AI Web Automation Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AutoGPT",
-          "description": "Experimental agent for task completion and web browsing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T17:03:33Z",
-            "owner": "Significant-Gravitas",
-            "repo": "AutoGPT",
-            "stars": 186666
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bytebot",
-          "description": "Containerized computer use agent framework with a virtual desktop environment.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2025-09-12T19:35:46Z",
-            "owner": "bytebot-ai",
-            "repo": "bytebot",
-            "stars": 11087
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Webwright",
-          "description": "Browser agent framework from Microsoft Research where the agent writes and runs Playwright scripts in a terminal workspace; supports OpenAI, Anthropic, and OpenRouter backends.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T22:00:27Z",
-            "owner": "microsoft",
-            "repo": "Webwright",
-            "stars": 5928
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BrowserAct",
-          "description": "Browser automation CLI and skills for AI agents to operate real browsers, manage sessions, support human handoff, and capture screenshots and evidence.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T03:32:38Z",
-            "owner": "browser-act",
-            "repo": "skills",
-            "stars": 5348
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "invisible-playwright",
-          "description": "Playwright wrapper for a stealth-patched Firefox 150 build. Drop-in replacement returning native Playwright Browser objects; spoofing happens in C++ source with no JS-level overrides.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T15:19:31Z",
-            "owner": "feder-cr",
-            "repo": "invisible_playwright",
-            "stars": 1901
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tarsier",
-          "description": "Vision utilities library for web interaction agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-11-25T07:50:59Z",
-            "owner": "reworkd",
-            "repo": "tarsier",
-            "stars": 1762
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HUD",
-          "description": "Open-source SDK for building browser and computer-use RL environments to evaluate and train web agents, with task-based verifiable rewards runnable as evals or RL training across any model.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T04:46:40Z",
-            "owner": "hud-evals",
-            "repo": "hud-python",
-            "stars": 291
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lumen",
-          "description": "Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider (Anthropic, Google, OpenAI), action caching for zero-token reruns.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-30T01:28:40Z",
-            "owner": "omxyz",
-            "repo": "lumen",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Agent Browser Shield",
-          "description": "Browser extension that sits between an AI agent and the page, stripping prompt injection, masking PII/credentials, and removing dark patterns before content reaches the model.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-15T13:24:20Z",
-            "owner": "pixiebrix",
-            "repo": "agent-browser-shield",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Atlas",
-          "description": "Open-source deep research harness for building cited web research agents with ledger-based coverage audits, pluggable search providers, and Steel-backed browser fetches.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T08:34:29Z",
-            "owner": "steel-dev",
-            "repo": "atlas",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BrowserTrace",
-          "description": "Local-first trace viewer for debugging Playwright, Browser Use, Stagehand, and other web-agent runs with redacted shareable exports.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-14T09:43:04Z",
-            "owner": "aaronlab",
-            "repo": "browsertrace",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Dev Tools"
     },
     {
       "description": "Web crawlers & scrapers that leverage AI to navigate websites and extract content.",
@@ -342,6 +366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 789480255,
             "language": "TypeScript",
             "last_commit": "2026-08-02T02:49:24Z",
             "owner": "mishushakov",
@@ -356,6 +381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 676028871,
             "language": "Python",
             "last_commit": "2024-11-18T09:39:29Z",
             "owner": "xlang-ai",
@@ -370,6 +396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 933816617,
             "language": "Python",
             "last_commit": "2025-08-25T21:54:50Z",
             "owner": "carlosplanchon",
@@ -384,8 +411,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1183525901,
             "language": "Rust",
-            "last_commit": "2026-08-18T16:50:22Z",
+            "last_commit": "2026-08-19T10:04:46Z",
             "owner": "plasmate-labs",
             "repo": "plasmate",
             "stars": 34
@@ -404,6 +432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 712027368,
             "language": "Python",
             "last_commit": "2025-01-01T16:49:05Z",
             "owner": "reworkd",
@@ -418,6 +447,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 811207186,
             "language": "Python",
             "last_commit": "2025-07-07T10:55:58Z",
             "owner": "iMeanAI",
@@ -432,40 +462,67 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191257032,
             "language": "Shell",
             "last_commit": "2026-04-01T19:41:01Z",
             "owner": "plasmate-labs",
             "repo": "plasmate-benchmarks",
             "stars": 0
           }
+        },
+        {
+          "node_type": "item",
+          "title": "BrowserGym by ServiceNow",
+          "description": "A gym environment for web task automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 754167312,
+            "language": "Python",
+            "last_commit": "2026-07-17T18:09:30Z",
+            "owner": "ServiceNow",
+            "repo": "BrowserGym",
+            "stars": 1323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClawBench",
+          "description": "283 everyday tasks (V1 153 + V2 130) on 163 live production websites across 15 categories. Two-stage scoring (final HTTP-request interception + LLM judge) blocks only the write request so real sites stay clean. Public leaderboard with 5-layer execution traces (recording, action log, request log, agent messages, interception).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1206519531,
+            "language": "Python",
+            "last_commit": "2026-08-19T04:27:57Z",
+            "owner": "TIGER-AI-Lab",
+            "repo": "ClawBench",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WorkArena",
+          "description": "A suite of 33 browser-based tasks for enterprise \"knowledge worker\" scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 764848724,
+            "language": "Python",
+            "last_commit": "2026-04-25T18:29:28Z",
+            "owner": "ServiceNow",
+            "repo": "WorkArena",
+            "stars": 267
+          }
         }
       ],
       "title": "Benchmarks & Research"
-    },
-    {
-      "description": "Historical or inactive projects are tracked in ARCHIVE.md.",
-      "items": [],
-      "title": "Archive"
-    },
-    {
-      "description": "Feel free to reach out at team@steel.dev or on Discord.\nSteel is an open-source browser API built specifically for AI agents. Get started for free here.",
-      "items": [],
-      "title": "Interested in implementing Steel?"
-    },
-    {
-      "description": "Contributions of any kind welcome, just follow the guidelines!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Thanks goes to these contributors!",
-      "items": [],
-      "title": "Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:41:58.136Z",
+    "last_updated": "2026-08-19T12:59:30.562Z",
     "original_repository": "steel-dev/awesome-web-agents",
+    "original_repository_id": 943686184,
     "original_repository_sha": "4fe085085b2c8a7d6d295b7ed34a1fc4e91bf431",
     "enhanced_repository": "enhansome/enhansome-web-agents",
     "enhanced_repository_description": null,
