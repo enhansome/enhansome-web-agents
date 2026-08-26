@@ -34,7 +34,7 @@ A curated list of tools, frameworks, and resources for building AI agents that c
 
 <!--lint disable double-link-->
 
-Steel is an [open-source](https://github.com/steel-dev/steel-browser) ⭐ 7,541 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-24 browser API built specifically for AI agents. We make it easy to build AI applications that can effectively interact with the web.
+Steel is an [open-source](https://github.com/steel-dev/steel-browser) ⭐ 7,543 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-25 browser API built specifically for AI agents. We make it easy to build AI applications that can effectively interact with the web.
 
 ✨ Get started for free [here](https://app.steel.dev).
 
@@ -80,11 +80,11 @@ Steel is an [open-source](https://github.com/steel-dev/steel-browser) ⭐ 7,541 
 AI agents that autonomously navigate and interact with the web through a user-friendly interface. (a.k.a Browser Agents)
 
 * [AgentGPT](https://github.com/reworkd/AgentGPT) ⚠️ Archived - Deploy autonomous AI agents in your browser. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
-* [Tongyi WebAgent](https://github.com/Alibaba-NLP/WebAgent) ⭐ 19,874 | 🐛 92 | 🌐 Python | 📅 2026-02-27 - WebAgent for information seeking built by Tongyi Lab, Alibaba Group. ![GitHub Repo stars](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent?style=social)
-* [Openwork](https://github.com/accomplish-ai/openwork) ⭐ 10,932 | 🐛 13 | 📅 2026-08-13 - An MIT-licensed, open alternative to Anthropic's Cowork built with Opencode and dev-browser. Supports multiple LLM providers for launching computer-use agents to automate browser workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/accomplish-ai/openwork?style=social)
+* [Tongyi WebAgent](https://github.com/Alibaba-NLP/WebAgent) ⭐ 19,879 | 🐛 93 | 🌐 Python | 📅 2026-02-27 - WebAgent for information seeking built by Tongyi Lab, Alibaba Group. ![GitHub Repo stars](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent?style=social)
+* [Openwork](https://github.com/accomplish-ai/openwork) ⭐ 10,930 | 🐛 13 | 📅 2026-08-13 - An MIT-licensed, open alternative to Anthropic's Cowork built with Opencode and dev-browser. Supports multiple LLM providers for launching computer-use agents to automate browser workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/accomplish-ai/openwork?style=social)
 * [Agent-E](https://github.com/EmergenceAI/Agent-E) ⭐ 1,248 | 🐛 23 | 🌐 Python | 📅 2026-05-04 - Agent & framework with HTML DOM distillation. ![GitHub Repo stars](https://img.shields.io/github/stars/EmergenceAI/Agent-E?style=social)
 * [WebVoyager (Agent)](https://github.com/MinorJerry/WebVoyager) ⭐ 1,122 | 🐛 12 | 🌐 Python | 📅 2024-03-04 - Vision-enabled web agent. ![GitHub Repo stars](https://img.shields.io/github/stars/MinorJerry/WebVoyager?style=social)
-* [Surf.new](https://surf.new) - An open-source playground for chatting with different web agents. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/surf.new?style=social)
+* [Caesar](https://github.com/jasonzliang/caesar-agent) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-26 - Autonomous research agent that traverses the web to build a knowledge graph, then synthesizes an answer through adversarial redrafting. ![GitHub Repo stars](https://img.shields.io/github/stars/jasonzliang/caesar-agent?style=social)
 * [OpenAI Operator](https://openai.com/index/introducing-operator/) - OpenAI's AI agents that can browse the web for you.
 * [Browser-Use](https://www.browser-use.com) - SOTA agent and framework that makes the web LLM-friendly. ![GitHub Repo stars](https://img.shields.io/github/stars/Browser-Use/browser-use?style=social)
 * [Skyvern-AI](https://www.skyvern.com/) - Framework to automate browser-based workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
@@ -104,9 +104,9 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 
 ### Computer-use Agents
 
-* [OpenInterpreter](https://github.com/openinterpreter/open-interpreter) ⭐ 68,145 | 🐛 5 | 🌐 Rust | 📅 2026-08-20 - An open-source CLI based agent that can write & execute code as well as control your browser. ![GitHub Repo stars](https://img.shields.io/github/stars/openinterpreter/open-interpreter?style=social)
-* [UI-TARS](https://github.com/bytedance/UI-TARS?tab=readme-ov-file) ⭐ 11,382 | 🐛 56 | 🌐 Python | 📅 2026-01-27 - A GUI agent model designed to interact seamlessly with GUIs using human-like perception, reasoning, and action capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/UI-TARS?style=social)
-* [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer) ⭐ 10,291 | 🐛 107 | 🌐 Python | 📅 2025-09-19 - A framework to enable multimodal models to operate a computer. ![GitHub Repo stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social)
+* [OpenInterpreter](https://github.com/openinterpreter/open-interpreter) ⭐ 68,160 | 🐛 6 | 🌐 Rust | 📅 2026-08-20 - An open-source CLI based agent that can write & execute code as well as control your browser. ![GitHub Repo stars](https://img.shields.io/github/stars/openinterpreter/open-interpreter?style=social)
+* [UI-TARS](https://github.com/bytedance/UI-TARS?tab=readme-ov-file) ⭐ 11,389 | 🐛 56 | 🌐 Python | 📅 2026-01-27 - A GUI agent model designed to interact seamlessly with GUIs using human-like perception, reasoning, and action capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/UI-TARS?style=social)
+* [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer) ⭐ 10,292 | 🐛 107 | 🌐 Python | 📅 2025-09-19 - A framework to enable multimodal models to operate a computer. ![GitHub Repo stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social)
 * [Anthropic Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use) - Computer use agent that can control your browser.
 * [Highlight](https://highlightai.com/) - Desktop activity layer that helps models understand your workflow and complete tasks faster.
 
@@ -127,7 +127,6 @@ Tools, frameworks and libraries that translate natural language instructions int
 * [Starizon.ai](https://starizon.ai/) - Browser assistant for web task automation.
 * [BrowserGPT](https://browsegpt.ai/) - Browser extension for page summaries and Q\&A.
 * [Browse.ai](https://www.browse.ai/) - Chrome extension webscraping that can leverage AI for structured data extraction.
-* [Strawberry Browser](https://www.strawberrybrowser.com/) - A personal assistant that sits in your browser, automates repetitive web actions, learns your workflows.
 * [Deta.surf](https://deta.surf/) - An integrated platform that combines a browser, file manager, and AI assistant with browser-level context.
 * [Comet by Perplexity](https://www.perplexity.ai/comet) - An AI-powered browser by Perplexity. Not much more details out yet.
 * [Dia Browser](https://www.diabrowser.com/) - AI-first web browser envisioned by The Browser Company (Arc).
@@ -137,16 +136,18 @@ Tools, frameworks and libraries that translate natural language instructions int
 
 ### Dev Tools
 
-* [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 186,857 | 🐛 525 | 🌐 Python | 📅 2026-08-25 - Experimental agent for task completion and web browsing. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
+* [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 186,889 | 🐛 517 | 🌐 Python | 📅 2026-08-26 - Experimental agent for task completion and web browsing. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
 * [Bytebot](https://github.com/bytebot-ai/bytebot) ⚠️ Archived - Containerized computer use agent framework with a virtual desktop environment. ![GitHub Repo stars](https://img.shields.io/github/stars/bytebot-ai/bytebot?style=social)
-* [Webwright](https://github.com/microsoft/Webwright) ⭐ 5,944 | 🐛 47 | 🌐 Python | 📅 2026-08-03 - Browser agent framework from Microsoft Research where the agent writes and runs Playwright scripts in a terminal workspace; supports OpenAI, Anthropic, and OpenRouter backends. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Webwright?style=social)
-* [BrowserAct](https://github.com/browser-act/skills) ⭐ 5,427 | 🐛 9 | 🌐 Python | 📅 2026-08-24 - Browser automation CLI and skills for AI agents to operate real browsers, manage sessions, support human handoff, and capture screenshots and evidence. ![GitHub Repo stars](https://img.shields.io/github/stars/browser-act/skills?style=social)
-* [invisible-playwright](https://github.com/feder-cr/invisible_playwright) ⭐ 1,930 | 🐛 4 | 🌐 Python | 📅 2026-08-23 - Playwright wrapper for a stealth-patched Firefox 150 build. Drop-in replacement returning native Playwright Browser objects; spoofing happens in C++ source with no JS-level overrides. ![GitHub Repo stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)
+* [Webwright](https://github.com/microsoft/Webwright) ⭐ 5,947 | 🐛 47 | 🌐 Python | 📅 2026-08-03 - Browser agent framework from Microsoft Research where the agent writes and runs Playwright scripts in a terminal workspace; supports OpenAI, Anthropic, and OpenRouter backends. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Webwright?style=social)
+* [BrowserAct](https://github.com/browser-act/skills) ⭐ 5,442 | 🐛 9 | 🌐 Python | 📅 2026-08-24 - Browser automation CLI and skills for AI agents to operate real browsers, manage sessions, support human handoff, and capture screenshots and evidence. ![GitHub Repo stars](https://img.shields.io/github/stars/browser-act/skills?style=social)
+* [invisible-playwright](https://github.com/feder-cr/invisible_playwright) ⭐ 1,936 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-26 - Playwright wrapper for a stealth-patched Firefox 150 build. Drop-in replacement returning native Playwright Browser objects; spoofing happens in C++ source with no JS-level overrides. ![GitHub Repo stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)
 * [Tarsier](https://github.com/reworkd/tarsier) ⭐ 1,761 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2024-11-25 - Vision utilities library for web interaction agents. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/tarsier?style=social)
-* [HUD](https://github.com/hud-evals/hud-python) ⭐ 295 | 🐛 10 | 🌐 Python | 📅 2026-08-25 - Open-source SDK for building browser and computer-use RL environments to evaluate and train web agents, with task-based verifiable rewards runnable as evals or RL training across any model. ![GitHub Repo stars](https://img.shields.io/github/stars/hud-evals/hud-python?style=social)
+* [Webcmd](https://github.com/agentrhq/webcmd) ⭐ 1,579 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-26 - Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles that context into deterministic CLI adapters and reusable sitemap memory for later runs. ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social)
+* [HUD](https://github.com/hud-evals/hud-python) ⭐ 295 | 🐛 11 | 🌐 Python | 📅 2026-08-26 - Open-source SDK for building browser and computer-use RL environments to evaluate and train web agents, with task-based verifiable rewards runnable as evals or RL training across any model. ![GitHub Repo stars](https://img.shields.io/github/stars/hud-evals/hud-python?style=social)
 * [Lumen](https://github.com/omxyz/lumen) ⭐ 56 | 🐛 15 | 🌐 TypeScript | 📅 2026-03-30 - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider (Anthropic, Google, OpenAI), action caching for zero-token reruns. ![GitHub Repo stars](https://img.shields.io/github/stars/omxyz/lumen?style=social)
-* [Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) ⭐ 33 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-22 - Browser extension that sits between an AI agent and the page, stripping prompt injection, masking PII/credentials, and removing dark patterns before content reaches the model. ![GitHub Repo stars](https://img.shields.io/github/stars/pixiebrix/agent-browser-shield?style=social)
+* [Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) ⭐ 34 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-22 - Browser extension that sits between an AI agent and the page, stripping prompt injection, masking PII/credentials, and removing dark patterns before content reaches the model. ![GitHub Repo stars](https://img.shields.io/github/stars/pixiebrix/agent-browser-shield?style=social)
 * [Atlas](https://github.com/steel-dev/atlas) ⭐ 17 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-20 - Open-source deep research harness for building cited web research agents with ledger-based coverage audits, pluggable search providers, and Steel-backed browser fetches. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/atlas?style=social)
+* [Hermes Connector](https://github.com/CorsenAI/hermes-connector) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2026-08-16 - Unofficial open-source Chrome extension and local companion that let Hermes Agent control only explicitly attached tabs in a user's Chrome session. ![GitHub Repo stars](https://img.shields.io/github/stars/CorsenAI/hermes-connector?style=social)
 * [BrowserTrace](https://github.com/aaronlab/browsertrace) ⭐ 4 | 🐛 19 | 🌐 Python | 📅 2026-05-14 - Local-first trace viewer for debugging Playwright, Browser Use, Stagehand, and other web-agent runs with redacted shareable exports. ![GitHub Repo stars](https://img.shields.io/github/stars/aaronlab/browsertrace?style=social)
 * [Steel.dev](https://steel.dev) - Open-source headless browser API built specifically for AI agents and apps. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
 * [Omniparser](https://microsoft.github.io/OmniParser/) - Tool for parsing GUIs for vision based agents. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social)
@@ -164,14 +165,15 @@ Tools, frameworks and libraries that translate natural language instructions int
 Web crawlers & scrapers that leverage AI to navigate websites and extract content.
 
 * [LLM Scraper](https://github.com/mishushakov/llm-scraper) ⭐ 6,915 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-02 - Uses LLMs for intelligent scraping and content understanding. ![GitHub Repo stars](https://img.shields.io/github/stars/mishushakov/llm-scraper?style=social)
-* [WebAgent (OpenAgents)](https://github.com/xlang-ai/OpenAgents) ⭐ 4,858 | 🐛 15 | 🌐 Python | 📅 2024-11-18 - The web-browsing agent module of the OpenAgents platform (HKU). Enables autonomous navigation of websites via natural language, as part of a larger multi-modal agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
+* [WebAgent (OpenAgents)](https://github.com/xlang-ai/OpenAgents) ⭐ 4,859 | 🐛 15 | 🌐 Python | 📅 2024-11-18 - The web-browsing agent module of the OpenAgents platform (HKU). Enables autonomous navigation of websites via natural language, as part of a larger multi-modal agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 * [SpiderCreator](https://github.com/carlosplanchon/spidercreator) ⭐ 223 | 🐛 6 | 🌐 Python | 📅 2025-08-25 - Create complex Playwright spiders with natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/carlosplanchon/spidercreator?style=social)
-* [Plasmate](https://github.com/plasmate-labs/plasmate) ⭐ 35 | 🐛 1 | 🌐 Rust | 📅 2026-08-25 - Open-source headless browser engine for AI agents. Compiles HTML to Semantic Object Model (SOM) with 17.5x token compression. 13 MCP tools. First browser tool on the MCP Registry. Rust, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/plasmate-labs/plasmate?style=social)
+* [Plasmate](https://github.com/plasmate-labs/plasmate) ⭐ 36 | 🐛 1 | 🌐 Rust | 📅 2026-08-26 - Open-source headless browser engine for AI agents. Compiles HTML to Semantic Object Model (SOM) with 17.5x token compression. 13 MCP tools. First browser tool on the MCP Registry. Rust, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/plasmate-labs/plasmate?style=social)
 * [FireCrawl](https://www.firecrawl.dev/) - APIs for turning websites into LLM-friendly markdown. ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social)
 * [Crawl4AI](https://crawl4ai.com) - Open-source LLM Friendly Web Crawler & Scraper. ![GitHub Repo stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social)
 * [ScrapeGraphAI](https://scrapegraphai.com/) - Python scraper based on AI. ![GitHub Repo stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=social)
 * [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API you can rely on.
 * [DataLens](https://datalens.uk) - AI web data agent that plans browser scraping tasks, extracts structured web data, and exposes MCP tools for dataset workflows.
+* [Context.dev](https://www.context.dev/) - Web APIs and MCP tools for search, scraping, crawling, schema-based extraction, document parsing, monitoring, and batch jobs.
 
 ## Web Search & Query Tools
 
@@ -184,6 +186,8 @@ Utilities that help agents search the web or query web data via natural language
 * [Exa.ai](https://exa.ai) - The fastest and most accurate web search API for AI agents.
 * [Not Human Search](https://nothumansearch.ai) - Search engine that indexes 1,750+ agent-first tools ranked by agentic readiness. Available as an MCP server with tools for searching, scoring, and monitoring agent infrastructure.
 * [Superhighway](https://superhighway.walls.sh) - Web search API for AI agents with five tools (search, news, images, scrape, research); agents pay per call in USDC via the x402 protocol, or use a free API key.
+* [Zoom Search](https://github.com/goofrey/zoom-search) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-07-16 - Open-source web search and evidence tool for AI agents with query rewriting, source-domain zoom-in, structured sourced outputs, and MCP and LangGraph integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/goofrey/zoom-search?style=social)
+* [SocialCrawl](https://www.socialcrawl.dev) - Unified social and commerce data API covering 50+ platforms as one GET and one JSON schema.
 
 ## Benchmarks & Research
 
@@ -191,7 +195,7 @@ Datasets, benchmarks, and notable research efforts for evaluating and advancing 
 
 * [Bananalyzer](https://github.com/reworkd/bananalyzer) ⭐ 327 | 🐛 10 | 🌐 Python | 📅 2025-01-01 - An open-source evaluation framework for web-based AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/bananalyzer?style=social)
 * [WebCanvas](https://github.com/iMeanAI/WebCanvas) ⭐ 280 | 🐛 5 | 🌐 Python | 📅 2025-07-07 - An online evaluation framework for dynamic web environments. Tests agents on live websites. ![GitHub Repo stars](https://img.shields.io/github/stars/iMeanAI/WebCanvas?style=social)
-* [WebTaskBench](https://github.com/plasmate-labs/plasmate-benchmarks) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2026-04-01 - 51-URL benchmark comparing HTML vs Markdown vs SOM representations for AI agents. Measures token efficiency, latency, and accuracy across GPT-4o and Claude Sonnet 4.
+* [WebTaskBench](https://github.com/plasmate-labs/plasmate-benchmarks) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2026-04-01 - 51-URL benchmark comparing HTML vs Markdown vs SOM representations for AI agents. Measures token efficiency, latency, and accuracy across GPT-4o and Claude Sonnet 4. ![GitHub Repo stars](https://img.shields.io/github/stars/plasmate-labs/plasmate-benchmarks?style=social)
 * [Web Agent Leaderboard](https://leaderboard.steel.dev) - Leaderboard compiling AI agent products and their performance on widely used WebVoyager benchmarks. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/leaderboard?style=social)
 * [Web Games by Convergence](https://webgames.convergence.ai/) - A collection of challenges designed for testing general-purpose web-browsing AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/convergence-ai/webgames?style=social)
 * [Mind2Web](https://osu-nlp-group.github.io/Mind2Web) - A large-scale dataset for generalist web agents. ![GitHub Repo stars](https://img.shields.io/github/stars/OSU-NLP-Group/Mind2Web?style=social)
@@ -204,7 +208,7 @@ Datasets, benchmarks, and notable research efforts for evaluating and advancing 
 <!--lint ignore double-link-->
 
 * [BrowserGym by ServiceNow](https://github.com/ServiceNow/BrowserGym) ⭐ 1,329 | 🐛 39 | 🌐 Python | 📅 2026-07-17 - A gym environment for web task automation. ![GitHub Repo stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social)
-* [ClawBench](https://github.com/reacher-z/ClawBench) ⭐ 585 | 🐛 60 | 🌐 Python | 📅 2026-08-22 - 283 everyday tasks (V1 153 + V2 130) on 163 live production websites across 15 categories. Two-stage scoring (final HTTP-request interception + LLM judge) blocks only the write request so real sites stay clean. Public leaderboard with 5-layer execution traces (recording, action log, request log, agent messages, interception). ![GitHub Repo stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=social)
+* [ClawBench](https://github.com/reacher-z/ClawBench) ⭐ 589 | 🐛 60 | 🌐 Python | 📅 2026-08-22 - 283 everyday tasks (V1 153 + V2 130) on 163 live production websites across 15 categories. Two-stage scoring (final HTTP-request interception + LLM judge) blocks only the write request so real sites stay clean. Public leaderboard with 5-layer execution traces (recording, action log, request log, agent messages, interception). ![GitHub Repo stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=social)
 * [WorkArena](https://github.com/ServiceNow/WorkArena) ⭐ 268 | 🐛 25 | 🌐 Python | 📅 2026-04-25 - A suite of 33 browser-based tasks for enterprise "knowledge worker" scenarios. ![GitHub Repo stars](https://img.shields.io/github/stars/ServiceNow/WorkArena?style=social)
 * [WebVoyager (Benchmark)](https://arxiv.org/abs/2401.13919) - Vision-enabled benchmark for real-world website interaction with large multimodal models. ![GitHub Repo stars](https://img.shields.io/github/stars/MinorJerry/WebVoyager?style=social)
 * [TimeWarp](https://timewarp-web.github.io) - A benchmark on historical versions of web UI.
@@ -232,7 +236,7 @@ Historical or inactive projects are tracked in [ARCHIVE.md](ARCHIVE.md).
 
 Feel free to reach out at [team@steel.dev](mailto:team@steel.dev?subject=Hello%20from%20github!) or on [Discord](https://discord.gg/steel-dev).
 
-Steel is an [open-source](https://github.com/steel-dev/steel-browser) ⭐ 7,541 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-24 browser API built specifically for AI agents. Get started for free [here](https://app.steel.dev).
+Steel is an [open-source](https://github.com/steel-dev/steel-browser) ⭐ 7,543 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-25 browser API built specifically for AI agents. Get started for free [here](https://app.steel.dev).
 
 <!--lint enable double-link-->
 
@@ -254,8 +258,8 @@ Steel is an [open-source](https://github.com/steel-dev/steel-browser) ⭐ 7,541 
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/steel-dev/awesome-web-agents/graphs/contributors) ⭐ 1,546 | 🐛 13 | 🌐 Python | 📅 2026-07-10!
+[Thanks goes to these contributors](https://github.com/steel-dev/awesome-web-agents/graphs/contributors) ⭐ 1,548 | 🐛 3 | 🌐 Python | 📅 2026-08-25!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

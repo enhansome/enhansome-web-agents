@@ -30,7 +30,7 @@
             "last_commit": "2026-02-27T13:12:11Z",
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19874
+            "stars": 19879
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-13T10:56:45Z",
             "owner": "accomplish-ai",
             "repo": "coworker",
-            "stars": 10932
+            "stars": 10930
           }
         },
         {
@@ -79,6 +79,21 @@
           }
         },
         {
+          "node_type": "item",
+          "title": "Caesar",
+          "description": "Autonomous research agent that traverses the web to build a knowledge graph, then synthesizes an answer through adversarial redrafting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1226385452,
+            "language": "Python",
+            "last_commit": "2026-08-26T13:53:15Z",
+            "owner": "jasonzliang",
+            "repo": "caesar-agent",
+            "stars": 7
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -92,7 +107,7 @@
                 "last_commit": "2026-08-20T03:35:38Z",
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68145
+                "stars": 68160
               }
             },
             {
@@ -107,7 +122,7 @@
                 "last_commit": "2026-01-27T04:57:26Z",
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11382
+                "stars": 11389
               }
             },
             {
@@ -122,7 +137,7 @@
                 "last_commit": "2025-09-19T19:31:39Z",
                 "owner": "OthersideAI",
                 "repo": "self-operating-computer",
-                "stars": 10291
+                "stars": 10292
               }
             }
           ],
@@ -192,10 +207,10 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-25T17:20:01Z",
+                "last_commit": "2026-08-26T17:34:25Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186857
+                "stars": 186889
               }
             },
             {
@@ -225,7 +240,7 @@
                 "last_commit": "2026-08-03T22:00:27Z",
                 "owner": "microsoft",
                 "repo": "Webwright",
-                "stars": 5944
+                "stars": 5947
               }
             },
             {
@@ -240,7 +255,7 @@
                 "last_commit": "2026-08-24T14:56:52Z",
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5427
+                "stars": 5442
               }
             },
             {
@@ -251,11 +266,11 @@
               "repo_info": {
                 "archived": false,
                 "id": 1237338198,
-                "language": "Python",
-                "last_commit": "2026-08-23T10:51:59Z",
+                "language": "JavaScript",
+                "last_commit": "2026-08-26T16:48:34Z",
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 1930
+                "stars": 1936
               }
             },
             {
@@ -275,6 +290,21 @@
             },
             {
               "node_type": "item",
+              "title": "Webcmd",
+              "description": "Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles that context into deterministic CLI adapters and reusable sitemap memory for later runs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1287114669,
+                "language": "JavaScript",
+                "last_commit": "2026-08-26T19:00:26Z",
+                "owner": "agentrhq",
+                "repo": "webcmd",
+                "stars": 1579
+              }
+            },
+            {
+              "node_type": "item",
               "title": "HUD",
               "description": "Open-source SDK for building browser and computer-use RL environments to evaluate and train web agents, with task-based verifiable rewards runnable as evals or RL training across any model.",
               "children": [],
@@ -282,7 +312,7 @@
                 "archived": false,
                 "id": 941344611,
                 "language": "Python",
-                "last_commit": "2026-08-25T13:03:01Z",
+                "last_commit": "2026-08-26T17:32:29Z",
                 "owner": "hud-evals",
                 "repo": "hud-python",
                 "stars": 295
@@ -315,7 +345,7 @@
                 "last_commit": "2026-08-22T06:34:14Z",
                 "owner": "pixiebrix",
                 "repo": "agent-browser-shield",
-                "stars": 33
+                "stars": 34
               }
             },
             {
@@ -331,6 +361,21 @@
                 "owner": "steel-dev",
                 "repo": "atlas",
                 "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hermes Connector",
+              "description": "Unofficial open-source Chrome extension and local companion that let Hermes Agent control only explicitly attached tabs in a user's Chrome session.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1307026151,
+                "language": "Python",
+                "last_commit": "2026-08-16T16:57:35Z",
+                "owner": "CorsenAI",
+                "repo": "hermes-connector",
+                "stars": 12
               }
             },
             {
@@ -386,7 +431,7 @@
             "last_commit": "2024-11-18T09:39:29Z",
             "owner": "xlang-ai",
             "repo": "OpenAgents",
-            "stars": 4858
+            "stars": 4859
           }
         },
         {
@@ -413,10 +458,10 @@
             "archived": false,
             "id": 1183525901,
             "language": "Rust",
-            "last_commit": "2026-08-25T17:05:01Z",
+            "last_commit": "2026-08-26T18:03:47Z",
             "owner": "plasmate-labs",
             "repo": "plasmate",
-            "stars": 35
+            "stars": 36
           }
         }
       ],
@@ -497,7 +542,7 @@
             "last_commit": "2026-08-22T20:48:02Z",
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 585
+            "stars": 589
           }
         },
         {
@@ -520,10 +565,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:44:53.390Z",
+    "last_updated": "2026-08-26T19:19:16.175Z",
     "original_repository": "steel-dev/awesome-web-agents",
     "original_repository_id": 943686184,
-    "original_repository_sha": "4fe085085b2c8a7d6d295b7ed34a1fc4e91bf431",
+    "original_repository_sha": "ad74156dc85ccf4a9501fed9c1169a53073860dc",
     "enhanced_repository": "enhansome/enhansome-web-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Web Agents with stars"
