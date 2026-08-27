@@ -15,7 +15,7 @@
             "last_commit": "2025-04-29T01:19:32Z",
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36303
+            "stars": 36301
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-13T10:56:45Z",
             "owner": "accomplish-ai",
             "repo": "coworker",
-            "stars": 10930
+            "stars": 10929
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-05-04T07:51:00Z",
             "owner": "EmergenceAI",
             "repo": "Agent-E",
-            "stars": 1248
+            "stars": 1249
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-03-04T03:36:39Z",
             "owner": "MinorJerry",
             "repo": "WebVoyager",
-            "stars": 1122
+            "stars": 1123
           }
         },
         {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-20T03:35:38Z",
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68160
+                "stars": 68162
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2026-01-27T04:57:26Z",
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11389
+                "stars": 11393
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2025-09-19T19:31:39Z",
                 "owner": "OthersideAI",
                 "repo": "self-operating-computer",
-                "stars": 10292
+                "stars": 10291
               }
             }
           ],
@@ -178,7 +178,7 @@
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 875
+            "stars": 847
           }
         },
         {
@@ -207,10 +207,10 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-26T17:34:25Z",
+                "last_commit": "2026-08-27T12:09:18Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186889
+                "stars": 186922
               }
             },
             {
@@ -225,7 +225,7 @@
                 "last_commit": "2025-09-12T19:35:46Z",
                 "owner": "bytebot-ai",
                 "repo": "bytebot",
-                "stars": 11087
+                "stars": 11089
               }
             },
             {
@@ -240,7 +240,7 @@
                 "last_commit": "2026-08-03T22:00:27Z",
                 "owner": "microsoft",
                 "repo": "Webwright",
-                "stars": 5947
+                "stars": 5948
               }
             },
             {
@@ -255,7 +255,7 @@
                 "last_commit": "2026-08-24T14:56:52Z",
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5442
+                "stars": 5498
               }
             },
             {
@@ -267,10 +267,10 @@
                 "archived": false,
                 "id": 1237338198,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T16:48:34Z",
+                "last_commit": "2026-08-27T12:01:12Z",
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 1936
+                "stars": 1941
               }
             },
             {
@@ -297,10 +297,10 @@
                 "archived": false,
                 "id": 1287114669,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T19:00:26Z",
+                "last_commit": "2026-08-27T11:14:31Z",
                 "owner": "agentrhq",
                 "repo": "webcmd",
-                "stars": 1579
+                "stars": 1581
               }
             },
             {
@@ -312,7 +312,7 @@
                 "archived": false,
                 "id": 941344611,
                 "language": "Python",
-                "last_commit": "2026-08-26T17:32:29Z",
+                "last_commit": "2026-08-26T22:11:30Z",
                 "owner": "hud-evals",
                 "repo": "hud-python",
                 "stars": 295
@@ -375,7 +375,7 @@
                 "last_commit": "2026-08-16T16:57:35Z",
                 "owner": "CorsenAI",
                 "repo": "hermes-connector",
-                "stars": 12
+                "stars": 13
               }
             },
             {
@@ -458,7 +458,7 @@
             "archived": false,
             "id": 1183525901,
             "language": "Rust",
-            "last_commit": "2026-08-26T18:03:47Z",
+            "last_commit": "2026-08-27T09:04:29Z",
             "owner": "plasmate-labs",
             "repo": "plasmate",
             "stars": 36
@@ -527,7 +527,7 @@
             "last_commit": "2026-07-17T18:09:30Z",
             "owner": "ServiceNow",
             "repo": "BrowserGym",
-            "stars": 1329
+            "stars": 1330
           }
         },
         {
@@ -542,7 +542,7 @@
             "last_commit": "2026-08-22T20:48:02Z",
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 589
+            "stars": 594
           }
         },
         {
@@ -557,7 +557,7 @@
             "last_commit": "2026-04-25T18:29:28Z",
             "owner": "ServiceNow",
             "repo": "WorkArena",
-            "stars": 268
+            "stars": 267
           }
         }
       ],
@@ -565,9 +565,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:19:16.175Z",
-    "original_repository": "steel-dev/awesome-web-agents",
-    "original_repository_id": 943686184,
+    "last_updated": "2026-08-27T12:10:28.099Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 943686184,
+      "language": "Python",
+      "last_commit": "2026-08-25T20:49:01Z",
+      "owner": "steel-dev",
+      "repo": "awesome-web-agents",
+      "stars": 1548
+    },
     "original_repository_sha": "ad74156dc85ccf4a9501fed9c1169a53073860dc",
     "enhanced_repository": "enhansome/enhansome-web-agents",
     "enhanced_repository_description": null,
