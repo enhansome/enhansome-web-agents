@@ -15,8 +15,9 @@
             "last_commit": "2025-04-29T01:19:32Z",
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36300
-          }
+            "stars": 36303
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-02-27T13:12:11Z",
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19879
-          }
+            "stars": 19883
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "accomplish-ai",
             "repo": "coworker",
             "stars": 10928
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "EmergenceAI",
             "repo": "Agent-E",
             "stars": 1249
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "MinorJerry",
             "repo": "WebVoyager",
             "stars": 1123
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "jasonzliang",
             "repo": "caesar-agent",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "children": [
@@ -107,8 +113,9 @@
                 "last_commit": "2026-08-20T03:35:38Z",
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68171
-              }
+                "stars": 68176
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -122,8 +129,9 @@
                 "last_commit": "2026-01-27T04:57:26Z",
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11396
-              }
+                "stars": 11399
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "OthersideAI",
                 "repo": "self-operating-computer",
                 "stars": 10291
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             }
           ],
           "description": null,
@@ -164,7 +173,8 @@
             "owner": "ishan0102",
             "repo": "vimGPT",
             "stars": 2649
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -178,8 +188,9 @@
             "last_commit": "2026-08-03T18:44:59Z",
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 866
-          }
+            "stars": 904
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -194,7 +205,8 @@
             "owner": "platonai",
             "repo": "PulsarRPA",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "children": [
@@ -207,11 +219,12 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:29:16Z",
+                "last_commit": "2026-08-29T00:55:53Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186939
-              }
+                "stars": 186964
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -225,8 +238,9 @@
                 "last_commit": "2025-09-12T19:35:46Z",
                 "owner": "bytebot-ai",
                 "repo": "bytebot",
-                "stars": 11088
-              }
+                "stars": 11087
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -240,8 +254,9 @@
                 "last_commit": "2026-08-03T22:00:27Z",
                 "owner": "microsoft",
                 "repo": "Webwright",
-                "stars": 5949
-              }
+                "stars": 5953
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -255,8 +270,9 @@
                 "last_commit": "2026-08-24T14:56:52Z",
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5509
-              }
+                "stars": 5514
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -267,11 +283,12 @@
                 "archived": false,
                 "id": 1237338198,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T01:24:30Z",
+                "last_commit": "2026-08-28T17:49:22Z",
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 1942
-              }
+                "stars": 1946
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "reworkd",
                 "repo": "tarsier",
                 "stars": 1761
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -297,11 +315,12 @@
                 "archived": false,
                 "id": 1287114669,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T19:20:25Z",
+                "last_commit": "2026-08-28T17:37:17Z",
                 "owner": "agentrhq",
                 "repo": "webcmd",
-                "stars": 1586
-              }
+                "stars": 1590
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -312,11 +331,12 @@
                 "archived": false,
                 "id": 941344611,
                 "language": "Python",
-                "last_commit": "2026-08-27T21:06:58Z",
+                "last_commit": "2026-08-28T06:24:06Z",
                 "owner": "hud-evals",
                 "repo": "hud-python",
-                "stars": 295
-              }
+                "stars": 296
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -331,7 +351,8 @@
                 "owner": "omxyz",
                 "repo": "lumen",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -346,7 +367,8 @@
                 "owner": "pixiebrix",
                 "repo": "agent-browser-shield",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -361,7 +383,8 @@
                 "owner": "steel-dev",
                 "repo": "atlas",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -375,8 +398,9 @@
                 "last_commit": "2026-08-16T16:57:35Z",
                 "owner": "CorsenAI",
                 "repo": "hermes-connector",
-                "stars": 13
-              }
+                "stars": 14
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             },
             {
               "node_type": "item",
@@ -391,7 +415,8 @@
                 "owner": "aaronlab",
                 "repo": "browsertrace",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
             }
           ],
           "description": null,
@@ -416,8 +441,9 @@
             "last_commit": "2026-08-02T02:49:24Z",
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6915
-          }
+            "stars": 6916
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -432,7 +458,8 @@
             "owner": "xlang-ai",
             "repo": "OpenAgents",
             "stars": 4859
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -447,7 +474,8 @@
             "owner": "carlosplanchon",
             "repo": "spidercreator",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -458,11 +486,12 @@
             "archived": false,
             "id": 1183525901,
             "language": "Rust",
-            "last_commit": "2026-08-28T01:05:35Z",
+            "last_commit": "2026-08-28T22:05:28Z",
             "owner": "plasmate-labs",
             "repo": "plasmate",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         }
       ],
       "title": "AI Web Scrapers/Crawlers"
@@ -483,7 +512,8 @@
             "owner": "reworkd",
             "repo": "bananalyzer",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -498,7 +528,8 @@
             "owner": "iMeanAI",
             "repo": "WebCanvas",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -513,7 +544,8 @@
             "owner": "plasmate-labs",
             "repo": "plasmate-benchmarks",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -527,8 +559,9 @@
             "last_commit": "2026-07-17T18:09:30Z",
             "owner": "ServiceNow",
             "repo": "BrowserGym",
-            "stars": 1332
-          }
+            "stars": 1333
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -542,8 +575,9 @@
             "last_commit": "2026-08-22T20:48:02Z",
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 597
-          }
+            "stars": 602
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         },
         {
           "node_type": "item",
@@ -558,14 +592,15 @@
             "owner": "ServiceNow",
             "repo": "WorkArena",
             "stars": 267
-          }
+          },
+          "first_seen": "2026-08-29T00:58:07.016Z"
         }
       ],
       "title": "Benchmarks & Research"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:29:17.418Z",
+    "last_updated": "2026-08-29T00:58:07.016Z",
     "original_repository_info": {
       "archived": false,
       "id": 943686184,
