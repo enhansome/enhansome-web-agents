@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+            "homepage": "https://agentgpt.reworkd.ai",
             "id": 624681066,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-29T01:19:32Z",
+            "open_issues": 219,
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36303
+            "stars": 36302,
+            "topics": [
+              "agent",
+              "agentgpt",
+              "agents",
+              "agi",
+              "ai",
+              "ai-agents",
+              "autogpt",
+              "baby-agi",
+              "gpt",
+              "langchain",
+              "llm",
+              "next",
+              "openai",
+              "t3",
+              "t3-stack"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -26,12 +47,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+            "homepage": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
             "id": 914316754,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-27T13:12:11Z",
+            "open_issues": 92,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19883
+            "stars": 19884,
+            "topics": [
+              "agent",
+              "alibaba",
+              "artificial-intelligence",
+              "deep-research",
+              "deepresearch",
+              "information-seeking",
+              "llm",
+              "tongyi",
+              "web-agent"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -42,12 +78,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1134220362,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-13T10:56:45Z",
+            "open_issues": 13,
             "owner": "accomplish-ai",
             "repo": "coworker",
-            "stars": 10928
+            "stars": 10928,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -58,12 +99,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent driven automation starting with the web. Try it: https://www.emergence.ai/web-automation-api",
+            "homepage": null,
             "id": 779019589,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-04T07:51:00Z",
+            "open_issues": 23,
             "owner": "EmergenceAI",
             "repo": "Agent-E",
-            "stars": 1249
+            "stars": 1249,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -74,12 +120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"WebVoyager: WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models\"",
+            "homepage": null,
             "id": 747508951,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-04T03:36:39Z",
+            "open_issues": 12,
             "owner": "MinorJerry",
             "repo": "WebVoyager",
-            "stars": 1123
+            "stars": 1123,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -90,12 +141,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Caesar — autonomous AI research agent with graph-based deep web exploration and adversarial answer synthesis. Open-source alternative to ChatGPT Deep Research, Perplexity, and Gemini Deep Research.",
+            "homepage": "https://jasonzliang.github.io/caesar-agent/",
             "id": 1226385452,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T13:53:15Z",
+            "open_issues": 0,
             "owner": "jasonzliang",
             "repo": "caesar-agent",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "agentic-ai",
+              "agentic-rag",
+              "ai-agent",
+              "autonomous-agent",
+              "chatgpt-alternative",
+              "creative-reasoning",
+              "deep-research",
+              "deep-research-alternative",
+              "gpt-researcher",
+              "knowledge-graph",
+              "llm",
+              "perplexity-alternative",
+              "rag",
+              "research-agent"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -108,12 +179,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A coding agent for open models like Kimi K3",
+                "homepage": "http://openinterpreter.com/",
                 "id": 666299222,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T03:35:38Z",
+                "open_issues": 8,
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68176
+                "stars": 68177,
+                "topics": [
+                  "acp",
+                  "coding-agent",
+                  "deepseek",
+                  "kimi",
+                  "qwen",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -124,12 +207,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pioneering Automated GUI Interaction with Native Agents",
+                "homepage": null,
                 "id": 918932479,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-27T04:57:26Z",
+                "open_issues": 56,
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11399
+                "stars": 11401,
+                "topics": [
+                  "research"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -140,12 +230,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework to enable a multimodal model to operate a computer.",
+                "homepage": "https://www.hyperwriteai.com/self-operating-computer",
                 "id": 714143245,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-19T19:31:39Z",
+                "open_issues": 107,
                 "owner": "OthersideAI",
                 "repo": "self-operating-computer",
-                "stars": 10291
+                "stars": 10291,
+                "topics": [
+                  "automation",
+                  "openai",
+                  "pyautogui"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             }
@@ -167,12 +266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browse the web with GPT-4V and Vimium",
+            "homepage": null,
             "id": 715367684,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-25T21:47:45Z",
+            "open_issues": 15,
             "owner": "ishan0102",
             "repo": "vimGPT",
-            "stars": 2649
+            "stars": 2649,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -183,12 +287,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+            "homepage": "https://vostride.com",
             "id": 1232322871,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T18:44:59Z",
+            "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 904
+            "stars": 913,
+            "topics": [
+              "ai-agents",
+              "ai-testing",
+              "anthropic",
+              "autonomous-agents",
+              "browser-automation",
+              "chatgpt",
+              "claude-code",
+              "clawdbot",
+              "codex",
+              "developer-tools",
+              "dsh-plugin",
+              "end-to-end-testing",
+              "frontend",
+              "mcp",
+              "mcp-server",
+              "mcp-tools",
+              "model-context-protocol",
+              "openai",
+              "playwright",
+              "qa-automation"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -199,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PulsarRPA: The AI-Powered, Lightning-Fast Browser Automation Solution.",
+            "homepage": null,
             "id": 1144072510,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-11T19:33:14Z",
+            "open_issues": 0,
             "owner": "platonai",
             "repo": "PulsarRPA",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -217,12 +352,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+                "homepage": "https://agpt.co",
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-29T00:55:53Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:02:30Z",
+                "open_issues": 525,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186964
+                "stars": 186966,
+                "topics": [
+                  "agentic-ai",
+                  "agents",
+                  "ai",
+                  "artificial-intelligence",
+                  "autonomous-agents",
+                  "claude",
+                  "gpt",
+                  "llama-api",
+                  "llm",
+                  "openai",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -233,12 +385,37 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+                "homepage": "https://www.bytebot.ai/",
                 "id": 926709003,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-12T19:35:46Z",
+                "open_issues": 72,
                 "owner": "bytebot-ai",
                 "repo": "bytebot",
-                "stars": 11087
+                "stars": 11087,
+                "topics": [
+                  "agent",
+                  "agentic-ai",
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "ai-tools",
+                  "anthropic",
+                  "automation",
+                  "bytebot",
+                  "computer-use",
+                  "computer-use-agent",
+                  "cua",
+                  "desktop",
+                  "desktop-automation",
+                  "docker",
+                  "gemini",
+                  "llm",
+                  "mcp",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -249,12 +426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. ",
+                "homepage": null,
                 "id": 1204415882,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T22:00:27Z",
+                "open_issues": 47,
                 "owner": "microsoft",
                 "repo": "Webwright",
-                "stars": 5953
+                "stars": 5953,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -265,12 +447,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
+                "homepage": "https://www.browseract.com/?co-from=github",
                 "id": 1151333143,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T14:56:52Z",
+                "open_issues": 9,
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5514
+                "stars": 5516,
+                "topics": [
+                  "agent-infrastructure",
+                  "ai-agents",
+                  "automation",
+                  "claude-cli",
+                  "claude-code",
+                  "claude-code-skills",
+                  "claude-skills",
+                  "codex",
+                  "codex-cli",
+                  "codex-skill",
+                  "cursor",
+                  "data-extraction",
+                  "no-code",
+                  "openclaw",
+                  "openclaw-cli",
+                  "openclaw-skill",
+                  "openclaw-skills",
+                  "web-data-extraction",
+                  "web-scraping",
+                  "web-scraping-api"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -281,12 +489,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source",
+                "homepage": null,
                 "id": 1237338198,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T17:49:22Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:15:05Z",
+                "open_issues": 4,
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 1946
+                "stars": 1946,
+                "topics": [
+                  "anti-bot",
+                  "anti-detect-browser",
+                  "antidetect",
+                  "automation",
+                  "bot-detection",
+                  "browser-automation",
+                  "browser-fingerprinting",
+                  "cloudflare",
+                  "crawler",
+                  "fingerprint",
+                  "fingerprintjs",
+                  "firefox",
+                  "headless-browser",
+                  "playwright",
+                  "proxy",
+                  "python",
+                  "scraping",
+                  "selenium",
+                  "stealth",
+                  "web-scraping"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -297,12 +531,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vision utilities for web interaction agents 👀",
+                "homepage": "https://reworkd.ai",
                 "id": 716799237,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-11-25T07:50:59Z",
+                "open_issues": 17,
                 "owner": "reworkd",
                 "repo": "tarsier",
-                "stars": 1761
+                "stars": 1761,
+                "topics": [
+                  "gpt4v",
+                  "llms",
+                  "ocr",
+                  "playwright",
+                  "pypi-package",
+                  "python",
+                  "selenium",
+                  "webscraping"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -313,12 +561,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Browser Infra that learns and cuts token spend by upto 90%",
+                "homepage": "https://webcmd.dev",
                 "id": 1287114669,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:37:17Z",
+                "open_issues": 34,
                 "owner": "agentrhq",
                 "repo": "webcmd",
-                "stars": 1590
+                "stars": 1589,
+                "topics": [
+                  "ai-agents",
+                  "browser-automation",
+                  "browser-use",
+                  "cli",
+                  "developer-tools",
+                  "playwright",
+                  "self-learning-ai"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -329,12 +590,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RL environments + evals for AI agents. Define once, train anything.",
+                "homepage": "https://www.hud.ai",
                 "id": 941344611,
                 "language": "Python",
-                "last_commit": "2026-08-28T06:24:06Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:06:57Z",
+                "open_issues": 18,
                 "owner": "hud-evals",
                 "repo": "hud-python",
-                "stars": 296
+                "stars": 296,
+                "topics": [
+                  "agents",
+                  "evals",
+                  "grpo",
+                  "llm",
+                  "qwen",
+                  "qwen3",
+                  "reinforcement-learning",
+                  "reinforcement-learning-environments",
+                  "rl"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -345,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A vision-first browser agent with self-healing deterministic replay.",
+                "homepage": null,
                 "id": 1170263480,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-03-30T01:28:40Z",
+                "open_issues": 15,
                 "owner": "omxyz",
                 "repo": "lumen",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -361,12 +642,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browser extension with 35+ rules for keeping your AI agent safe while browsing",
+                "homepage": "https://pixiebrix.github.io/agent-browser-shield/",
                 "id": 1253999202,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-22T06:34:14Z",
+                "open_issues": 17,
                 "owner": "pixiebrix",
                 "repo": "agent-browser-shield",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "ai-agents",
+                  "browser-extension",
+                  "browser-use",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -377,12 +668,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Research Agent for the Open Web",
+                "homepage": "https://steel.dev",
                 "id": 1239209837,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T08:34:17Z",
+                "open_issues": 8,
                 "owner": "steel-dev",
                 "repo": "atlas",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "ai-agents",
+                  "browser-automation",
+                  "deep-research",
+                  "web-scraping"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -393,12 +694,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chrome browser extension for Hermes Agent — exact sessions, user-selected tabs, and local-first browser control.",
+                "homepage": "https://corsenai.github.io/hermes-connector/",
                 "id": 1307026151,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-16T16:57:35Z",
+                "open_issues": 2,
                 "owner": "CorsenAI",
                 "repo": "hermes-connector",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "ai-agent",
+                  "ai-browser-agent",
+                  "browser-automation",
+                  "browser-control",
+                  "browser-extension",
+                  "chrome-extension",
+                  "chrome-side-panel",
+                  "hermes-agent",
+                  "hermes-plugin",
+                  "local-first",
+                  "manifest-v3",
+                  "web-agent"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             },
@@ -409,12 +728,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Local replay debugger for Browser Use failures with screenshots, model I/O, failed-step timelines, and public-safe HTML exports.",
+                "homepage": "https://aaronlab.github.io/browsertrace/",
                 "id": 1221453647,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-14T09:43:04Z",
+                "open_issues": 19,
                 "owner": "aaronlab",
                 "repo": "browsertrace",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "agent-debugging",
+                  "agent-observability",
+                  "agent-tracing",
+                  "ai-agent",
+                  "ai-agent-debugging",
+                  "ai-agents",
+                  "browser-agent",
+                  "browser-agents",
+                  "browser-automation",
+                  "browser-use",
+                  "computer-use",
+                  "debugging",
+                  "llm",
+                  "llm-observability",
+                  "local-first",
+                  "observability",
+                  "playwright",
+                  "skyvern",
+                  "stagehand",
+                  "trace-viewer"
+                ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
             }
@@ -436,12 +781,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn any webpage into structured data using LLMs",
+            "homepage": null,
             "id": 789480255,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-02T02:49:24Z",
+            "open_issues": 7,
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6916
+            "stars": 6916,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "browser",
+              "browser-automation",
+              "gpt",
+              "gpt-4",
+              "langchain",
+              "llama",
+              "llm",
+              "openai",
+              "playwright",
+              "puppeteer",
+              "scraper"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -452,12 +816,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[COLM 2024] OpenAgents: An Open Platform for Language Agents in the Wild",
+            "homepage": "https://arxiv.org/abs/2310.10634",
             "id": 676028871,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-18T09:39:29Z",
+            "open_issues": 15,
             "owner": "xlang-ai",
             "repo": "OpenAgents",
-            "stars": 4859
+            "stars": 4859,
+            "topics": [
+              "agent",
+              "assistant-chat-bots",
+              "code-generation",
+              "executable-langauge-grounding",
+              "gpt",
+              "hacktoberfest",
+              "language-model",
+              "language-model-agent",
+              "llm",
+              "semantic-parsing",
+              "tool-learning",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -468,12 +850,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated web scraping spider generation using Browser Use and LLMs. Streamline the creation of Playwright-based spiders with minimal manual coding. Ideal for large enterprises with recurring data extraction needs.",
+            "homepage": "http://spidercreator.com/",
             "id": 933816617,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-08-25T21:54:50Z",
+            "open_issues": 6,
             "owner": "carlosplanchon",
             "repo": "spidercreator",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "ai",
+              "automation",
+              "browser-use",
+              "crawling",
+              "llm",
+              "low-code",
+              "no-code",
+              "python",
+              "rpa",
+              "scraping",
+              "spider",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -484,12 +884,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser engine for agents. HTML in, structured Semantic Object Model out. Native MCP and AWP with a supported CDP subset. Apache-2.0.",
+            "homepage": "https://docs.plasmate.app",
             "id": 1183525901,
             "language": "Rust",
-            "last_commit": "2026-08-28T22:05:28Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:07:14Z",
+            "open_issues": 1,
             "owner": "plasmate-labs",
             "repo": "plasmate",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "agent-web-protocol",
+              "ai-agents",
+              "browser-engine",
+              "cdp",
+              "headless-browser",
+              "llm",
+              "mcp",
+              "model-context-protocol",
+              "puppeteer",
+              "rust",
+              "semantic-browser",
+              "semantic-web",
+              "som",
+              "structured-output",
+              "web-automation",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         }
@@ -506,12 +928,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source AI Agent evaluation framework for web tasks 🐒🍌",
+            "homepage": null,
             "id": 712027368,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-01T16:49:05Z",
+            "open_issues": 10,
             "owner": "reworkd",
             "repo": "bananalyzer",
-            "stars": 327
+            "stars": 327,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -522,12 +949,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All-in-one Web Agent framework for post-training. Start building with a few clicks!",
+            "homepage": "https://www.imean.ai/web-canvas",
             "id": 811207186,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-07T10:55:58Z",
+            "open_issues": 5,
             "owner": "iMeanAI",
             "repo": "WebCanvas",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "agent",
+              "benchmark-framework",
+              "llm-agent",
+              "llm-evaluation"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -538,12 +975,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reproducible benchmarks for Plasmate. Token compression, latency, and coverage across 100+ real websites.",
+            "homepage": "https://docs.plasmate.app/benchmark-cost",
             "id": 1191257032,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-01T19:41:01Z",
+            "open_issues": 0,
             "owner": "plasmate-labs",
             "repo": "plasmate-benchmarks",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "benchmark",
+              "performance",
+              "plasmate",
+              "som",
+              "token-compression",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -554,12 +1004,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌎💪 BrowserGym, a Gym environment for web task automation",
+            "homepage": null,
             "id": 754167312,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-17T18:09:30Z",
+            "open_issues": 39,
             "owner": "ServiceNow",
             "repo": "BrowserGym",
-            "stars": 1333
+            "stars": 1333,
+            "topics": [
+              "ai",
+              "llm",
+              "webagent"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -570,12 +1029,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source benchmark for browser AI agents on daily tasks.",
+            "homepage": "https://claw-bench.com",
             "id": 1206519531,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T20:48:02Z",
+            "open_issues": 60,
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 602
+            "stars": 603,
+            "topics": [
+              "agent-evaluation",
+              "agentic-ai",
+              "ai-agent-benchmark",
+              "ai-agents",
+              "benchmark",
+              "browser-agent",
+              "browser-automation",
+              "browser-use",
+              "chrome-agent",
+              "chrome-extension",
+              "computer-use",
+              "dataset",
+              "evaluation",
+              "everyday-tasks",
+              "llm",
+              "llm-evaluation",
+              "online-tasks",
+              "real-world-benchmark",
+              "web-agent",
+              "web-agents"
+            ]
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         },
@@ -586,12 +1071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?",
+            "homepage": "https://servicenow.github.io/WorkArena/",
             "id": 764848724,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-25T18:29:28Z",
+            "open_issues": 25,
             "owner": "ServiceNow",
             "repo": "WorkArena",
-            "stars": 267
+            "stars": 267,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
         }
@@ -600,15 +1090,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:58:07.016Z",
+    "last_updated": "2026-08-29T04:30:36.969Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
+      "homepage": null,
       "id": 943686184,
       "language": "Python",
+      "license": "NOASSERTION",
       "last_commit": "2026-08-25T20:49:01Z",
+      "open_issues": 3,
       "owner": "steel-dev",
       "repo": "awesome-web-agents",
-      "stars": 1551
+      "stars": 1551,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "browser-automation",
+        "llms",
+        "llms-benchmarking"
+      ]
     },
     "original_repository_sha": "ad74156dc85ccf4a9501fed9c1169a53073860dc",
     "enhanced_repository": "enhansome/enhansome-web-agents",
