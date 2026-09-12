@@ -19,7 +19,7 @@
             "open_issues": 219,
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36298,
+            "stars": 36297,
             "topics": [
               "agent",
               "agentgpt",
@@ -56,7 +56,7 @@
             "open_issues": 93,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19933,
+            "stars": 19929,
             "topics": [
               "agent",
               "alibaba",
@@ -87,7 +87,7 @@
             "open_issues": 13,
             "owner": "accomplish-ai",
             "repo": "coworker",
-            "stars": 10906,
+            "stars": 10903,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
@@ -105,7 +105,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-05-04T07:51:00Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "EmergenceAI",
             "repo": "Agent-E",
             "stars": 1250,
@@ -188,7 +188,7 @@
                 "open_issues": 3,
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68296,
+                "stars": 68306,
                 "topics": [
                   "acp",
                   "coding-agent",
@@ -216,7 +216,7 @@
                 "open_issues": 56,
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11449,
+                "stars": 11457,
                 "topics": [
                   "research"
                 ]
@@ -239,7 +239,7 @@
                 "open_issues": 108,
                 "owner": "OthersideAI",
                 "repo": "self-operating-computer",
-                "stars": 10295,
+                "stars": 10294,
                 "topics": [
                   "automation",
                   "openai",
@@ -275,7 +275,7 @@
             "open_issues": 15,
             "owner": "ishan0102",
             "repo": "vimGPT",
-            "stars": 2648,
+            "stars": 2649,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
@@ -357,11 +357,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T19:38:44Z",
-                "open_issues": 578,
+                "last_commit": "2026-09-12T19:12:34Z",
+                "open_issues": 563,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187269,
+                "stars": 187281,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -435,7 +435,7 @@
                 "open_issues": 48,
                 "owner": "microsoft",
                 "repo": "Webwright",
-                "stars": 5959,
+                "stars": 5961,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
@@ -456,7 +456,7 @@
                 "open_issues": 7,
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5901,
+                "stars": 5904,
                 "topics": [
                   "agent-infrastructure",
                   "ai-agents",
@@ -484,6 +484,35 @@
             },
             {
               "node_type": "item",
+              "title": "Webcmd",
+              "description": "Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles that context into deterministic CLI adapters and reusable sitemap memory for later runs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Self-learning agent browser",
+                "homepage": "https://webcmd.dev",
+                "id": 1287114669,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-11T10:19:28Z",
+                "open_issues": 53,
+                "owner": "agentrhq",
+                "repo": "webcmd",
+                "stars": 2243,
+                "topics": [
+                  "ai-agents",
+                  "browser-automation",
+                  "browser-use",
+                  "cli",
+                  "developer-tools",
+                  "playwright",
+                  "self-learning-ai"
+                ]
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
+            },
+            {
+              "node_type": "item",
               "title": "invisible-playwright",
               "description": "Playwright wrapper for a stealth-patched Firefox 150 build. Drop-in replacement returning native Playwright Browser objects; spoofing happens in C++ source with no JS-level overrides.",
               "children": [],
@@ -494,11 +523,11 @@
                 "id": 1237338198,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T22:10:04Z",
+                "last_commit": "2026-09-11T22:10:10Z",
                 "open_issues": 3,
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 2011,
+                "stars": 2018,
                 "topics": [
                   "akamai",
                   "anti-bot",
@@ -556,35 +585,6 @@
             },
             {
               "node_type": "item",
-              "title": "Webcmd",
-              "description": "Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles that context into deterministic CLI adapters and reusable sitemap memory for later runs.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Self-learning agent browser",
-                "homepage": "https://webcmd.dev",
-                "id": 1287114669,
-                "language": "TypeScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-11T10:19:28Z",
-                "open_issues": 36,
-                "owner": "agentrhq",
-                "repo": "webcmd",
-                "stars": 1600,
-                "topics": [
-                  "ai-agents",
-                  "browser-automation",
-                  "browser-use",
-                  "cli",
-                  "developer-tools",
-                  "playwright",
-                  "self-learning-ai"
-                ]
-              },
-              "first_seen": "2026-08-29T00:58:07.016Z"
-            },
-            {
-              "node_type": "item",
               "title": "HUD",
               "description": "Open-source SDK for building browser and computer-use RL environments to evaluate and train web agents, with task-based verifiable rewards runnable as evals or RL training across any model.",
               "children": [],
@@ -595,8 +595,8 @@
                 "id": 941344611,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T07:01:14Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-12T12:39:26Z",
+                "open_issues": 11,
                 "owner": "hud-evals",
                 "repo": "hud-python",
                 "stars": 301,
@@ -647,8 +647,8 @@
                 "id": 1253999202,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T01:52:54Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-12T06:34:01Z",
+                "open_issues": 17,
                 "owner": "pixiebrix",
                 "repo": "agent-browser-shield",
                 "stars": 35,
@@ -700,7 +700,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-02T16:58:29Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "CorsenAI",
                 "repo": "hermes-connector",
                 "stars": 19,
@@ -790,7 +790,7 @@
             "open_issues": 9,
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6920,
+            "stars": 6922,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -889,7 +889,7 @@
             "id": 1183525901,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T15:01:57Z",
+            "last_commit": "2026-09-12T18:04:39Z",
             "open_issues": 1,
             "owner": "plasmate-labs",
             "repo": "plasmate",
@@ -1013,7 +1013,7 @@
             "open_issues": 39,
             "owner": "ServiceNow",
             "repo": "BrowserGym",
-            "stars": 1354,
+            "stars": 1357,
             "topics": [
               "ai",
               "llm",
@@ -1035,10 +1035,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T11:49:07Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 713,
+            "stars": 723,
             "topics": [
               "agent-evaluation",
               "agentic-ai",
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:41:49.921Z",
+    "last_updated": "2026-09-12T19:19:20.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
@@ -1099,10 +1099,10 @@
       "language": "Python",
       "license": "NOASSERTION",
       "last_commit": "2026-08-25T20:49:01Z",
-      "open_issues": 13,
+      "open_issues": 14,
       "owner": "steel-dev",
       "repo": "awesome-web-agents",
-      "stars": 1569,
+      "stars": 1571,
       "topics": [
         "ai",
         "ai-agents",
