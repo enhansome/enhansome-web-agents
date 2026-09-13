@@ -19,7 +19,7 @@
             "open_issues": 219,
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36297,
+            "stars": 36298,
             "topics": [
               "agent",
               "agentgpt",
@@ -53,10 +53,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-02-27T13:12:11Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19929,
+            "stars": 19931,
             "topics": [
               "agent",
               "alibaba",
@@ -87,7 +87,7 @@
             "open_issues": 13,
             "owner": "accomplish-ai",
             "repo": "coworker",
-            "stars": 10903,
+            "stars": 10904,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
@@ -184,11 +184,11 @@
                 "id": 666299222,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T04:59:04Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-13T18:21:49Z",
+                "open_issues": 1,
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68306,
+                "stars": 68311,
                 "topics": [
                   "acp",
                   "coding-agent",
@@ -216,7 +216,7 @@
                 "open_issues": 56,
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11457,
+                "stars": 11459,
                 "topics": [
                   "research"
                 ]
@@ -357,11 +357,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T19:12:34Z",
-                "open_issues": 563,
+                "last_commit": "2026-09-13T19:21:18Z",
+                "open_issues": 565,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187281,
+                "stars": 187306,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -394,7 +394,7 @@
                 "open_issues": 72,
                 "owner": "bytebot-ai",
                 "repo": "bytebot",
-                "stars": 11078,
+                "stars": 11084,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -435,7 +435,7 @@
                 "open_issues": 48,
                 "owner": "microsoft",
                 "repo": "Webwright",
-                "stars": 5961,
+                "stars": 5980,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
@@ -453,10 +453,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-24T14:56:52Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5904,
+                "stars": 5911,
                 "topics": [
                   "agent-infrastructure",
                   "ai-agents",
@@ -498,7 +498,7 @@
                 "open_issues": 53,
                 "owner": "agentrhq",
                 "repo": "webcmd",
-                "stars": 2243,
+                "stars": 2247,
                 "topics": [
                   "ai-agents",
                   "browser-automation",
@@ -523,11 +523,11 @@
                 "id": 1237338198,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T22:10:10Z",
+                "last_commit": "2026-09-12T22:10:08Z",
                 "open_issues": 3,
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 2018,
+                "stars": 2017,
                 "topics": [
                   "akamai",
                   "anti-bot",
@@ -595,7 +595,7 @@
                 "id": 941344611,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-12T12:39:26Z",
+                "last_commit": "2026-09-13T13:29:39Z",
                 "open_issues": 11,
                 "owner": "hud-evals",
                 "repo": "hud-python",
@@ -790,7 +790,7 @@
             "open_issues": 9,
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6922,
+            "stars": 6924,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -889,7 +889,7 @@
             "id": 1183525901,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T18:04:39Z",
+            "last_commit": "2026-09-13T19:05:38Z",
             "open_issues": 1,
             "owner": "plasmate-labs",
             "repo": "plasmate",
@@ -1013,7 +1013,7 @@
             "open_issues": 39,
             "owner": "ServiceNow",
             "repo": "BrowserGym",
-            "stars": 1357,
+            "stars": 1362,
             "topics": [
               "ai",
               "llm",
@@ -1034,11 +1034,11 @@
             "id": 1206519531,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T11:49:07Z",
-            "open_issues": 31,
+            "last_commit": "2026-09-13T19:20:20Z",
+            "open_issues": 49,
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 723,
+            "stars": 733,
             "topics": [
               "agent-evaluation",
               "agentic-ai",
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T19:19:20.546Z",
+    "last_updated": "2026-09-13T19:27:12.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
@@ -1099,10 +1099,10 @@
       "language": "Python",
       "license": "NOASSERTION",
       "last_commit": "2026-08-25T20:49:01Z",
-      "open_issues": 14,
+      "open_issues": 16,
       "owner": "steel-dev",
       "repo": "awesome-web-agents",
-      "stars": 1571,
+      "stars": 1570,
       "topics": [
         "ai",
         "ai-agents",
