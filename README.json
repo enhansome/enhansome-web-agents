@@ -19,7 +19,7 @@
             "open_issues": 219,
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36293,
+            "stars": 36288,
             "topics": [
               "agent",
               "agentgpt",
@@ -56,7 +56,7 @@
             "open_issues": 94,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19966,
+            "stars": 19973,
             "topics": [
               "agent",
               "alibaba",
@@ -188,7 +188,7 @@
                 "open_issues": 3,
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68378,
+                "stars": 68386,
                 "topics": [
                   "acp",
                   "coding-agent",
@@ -217,7 +217,7 @@
                 "open_issues": 57,
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11487,
+                "stars": 11494,
                 "topics": [
                   "research"
                 ]
@@ -240,7 +240,7 @@
                 "open_issues": 108,
                 "owner": "OthersideAI",
                 "repo": "self-operating-computer",
-                "stars": 10298,
+                "stars": 10299,
                 "topics": [
                   "automation",
                   "openai",
@@ -297,7 +297,7 @@
             "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 882,
+            "stars": 886,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -358,11 +358,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T18:52:47Z",
-                "open_issues": 576,
+                "last_commit": "2026-09-19T17:14:20Z",
+                "open_issues": 584,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187437,
+                "stars": 187447,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -395,7 +395,7 @@
                 "open_issues": 72,
                 "owner": "bytebot-ai",
                 "repo": "bytebot",
-                "stars": 11083,
+                "stars": 11084,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -436,7 +436,7 @@
                 "open_issues": 49,
                 "owner": "microsoft",
                 "repo": "Webwright",
-                "stars": 6007,
+                "stars": 6008,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
@@ -457,7 +457,7 @@
                 "open_issues": 8,
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5954,
+                "stars": 5962,
                 "topics": [
                   "agent-infrastructure",
                   "ai-agents",
@@ -485,6 +485,48 @@
             },
             {
               "node_type": "item",
+              "title": "invisible-playwright",
+              "description": "Playwright wrapper for a stealth-patched Firefox 150 build. Drop-in replacement returning native Playwright Browser objects; spoofing happens in C++ source with no JS-level overrides.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Anti-detect browser stealth for Playwright: undetected headless Firefox fingerprint spoofing. Python web scraping and automation, Cloudflare, captcha and anti-bot detection bypass.",
+                "homepage": null,
+                "id": 1237338198,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-19T17:55:19Z",
+                "open_issues": 4,
+                "owner": "feder-cr",
+                "repo": "invisible_playwright",
+                "stars": 2640,
+                "topics": [
+                  "akamai",
+                  "anti-bot",
+                  "antidetect",
+                  "antidetect-browser",
+                  "bot-detection",
+                  "browser-fingerprinting",
+                  "datadome",
+                  "fingerprinting",
+                  "hcaptcha",
+                  "headless-browser",
+                  "imperva",
+                  "incapsula",
+                  "kasada",
+                  "perimeterx",
+                  "playwright",
+                  "recaptcha",
+                  "shadow-dom",
+                  "stealth",
+                  "turnstile",
+                  "webscraping"
+                ]
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
+            },
+            {
+              "node_type": "item",
               "title": "Webcmd",
               "description": "Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles that context into deterministic CLI adapters and reusable sitemap memory for later runs.",
               "children": [],
@@ -499,7 +541,7 @@
                 "open_issues": 57,
                 "owner": "agentrhq",
                 "repo": "webcmd",
-                "stars": 2208,
+                "stars": 2209,
                 "topics": [
                   "ai-agents",
                   "browser-automation",
@@ -508,48 +550,6 @@
                   "developer-tools",
                   "playwright",
                   "self-learning-ai"
-                ]
-              },
-              "first_seen": "2026-08-29T00:58:07.016Z"
-            },
-            {
-              "node_type": "item",
-              "title": "invisible-playwright",
-              "description": "Playwright wrapper for a stealth-patched Firefox 150 build. Drop-in replacement returning native Playwright Browser objects; spoofing happens in C++ source with no JS-level overrides.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source",
-                "homepage": null,
-                "id": 1237338198,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-18T19:29:28Z",
-                "open_issues": 3,
-                "owner": "feder-cr",
-                "repo": "invisible_playwright",
-                "stars": 2053,
-                "topics": [
-                  "akamai",
-                  "anti-bot",
-                  "anti-bot-detection",
-                  "anti-detect-browser",
-                  "antidetect",
-                  "bot-detection",
-                  "browser-automation",
-                  "browser-fingerprinting",
-                  "cloudflare-bypass",
-                  "datadome",
-                  "fingerprint",
-                  "headless-browser",
-                  "kasada",
-                  "perimeterx",
-                  "playwright",
-                  "selenium",
-                  "shadow-dom",
-                  "stealth",
-                  "turnstile",
-                  "web-scraping"
                 ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
@@ -596,8 +596,8 @@
                 "id": 941344611,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T14:11:49Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-19T06:20:13Z",
+                "open_issues": 7,
                 "owner": "hud-evals",
                 "repo": "hud-python",
                 "stars": 302,
@@ -648,8 +648,8 @@
                 "id": 1253999202,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-14T21:07:15Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-19T06:33:46Z",
+                "open_issues": 17,
                 "owner": "pixiebrix",
                 "repo": "agent-browser-shield",
                 "stars": 35,
@@ -791,7 +791,7 @@
             "open_issues": 9,
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6935,
+            "stars": 6937,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -890,8 +890,8 @@
             "id": 1183525901,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T21:08:07Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-19T19:09:24Z",
+            "open_issues": 1,
             "owner": "plasmate-labs",
             "repo": "plasmate",
             "stars": 37,
@@ -1014,7 +1014,7 @@
             "open_issues": 39,
             "owner": "ServiceNow",
             "repo": "BrowserGym",
-            "stars": 1367,
+            "stars": 1369,
             "topics": [
               "ai",
               "llm",
@@ -1039,7 +1039,7 @@
             "open_issues": 47,
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 778,
+            "stars": 791,
             "topics": [
               "agent-evaluation",
               "agentic-ai",
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:35:02.551Z",
+    "last_updated": "2026-09-19T19:18:49.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
@@ -1100,7 +1100,7 @@
       "language": "Python",
       "license": "NOASSERTION",
       "last_commit": "2026-08-25T20:49:01Z",
-      "open_issues": 18,
+      "open_issues": 20,
       "owner": "steel-dev",
       "repo": "awesome-web-agents",
       "stars": 1571,
