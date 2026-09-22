@@ -19,7 +19,7 @@
             "open_issues": 219,
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36288,
+            "stars": 36290,
             "topics": [
               "agent",
               "agentgpt",
@@ -56,7 +56,7 @@
             "open_issues": 97,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19977,
+            "stars": 19981,
             "topics": [
               "agent",
               "alibaba",
@@ -129,7 +129,7 @@
             "open_issues": 12,
             "owner": "MinorJerry",
             "repo": "WebVoyager",
-            "stars": 1125,
+            "stars": 1126,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
@@ -188,7 +188,7 @@
                 "open_issues": 3,
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68397,
+                "stars": 68404,
                 "topics": [
                   "acp",
                   "coding-agent",
@@ -217,7 +217,7 @@
                 "open_issues": 58,
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11508,
+                "stars": 11511,
                 "topics": [
                   "research"
                 ]
@@ -240,7 +240,7 @@
                 "open_issues": 108,
                 "owner": "OthersideAI",
                 "repo": "self-operating-computer",
-                "stars": 10298,
+                "stars": 10297,
                 "topics": [
                   "automation",
                   "openai",
@@ -297,7 +297,7 @@
             "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 887,
+            "stars": 888,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -358,11 +358,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T20:56:13Z",
-                "open_issues": 575,
+                "last_commit": "2026-09-22T20:05:55Z",
+                "open_issues": 561,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187480,
+                "stars": 187496,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -395,7 +395,7 @@
                 "open_issues": 72,
                 "owner": "bytebot-ai",
                 "repo": "bytebot",
-                "stars": 11085,
+                "stars": 11087,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -457,7 +457,7 @@
                 "open_issues": 8,
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5969,
+                "stars": 5979,
                 "topics": [
                   "agent-infrastructure",
                   "ai-agents",
@@ -495,11 +495,11 @@
                 "id": 1237338198,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-21T18:12:54Z",
+                "last_commit": "2026-09-21T22:17:07Z",
                 "open_issues": 3,
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 2952,
+                "stars": 2957,
                 "topics": [
                   "akamai",
                   "antibot",
@@ -541,7 +541,7 @@
                 "open_issues": 58,
                 "owner": "agentrhq",
                 "repo": "webcmd",
-                "stars": 2249,
+                "stars": 2253,
                 "topics": [
                   "ai-agents",
                   "browser-automation",
@@ -664,6 +664,32 @@
             },
             {
               "node_type": "item",
+              "title": "Atlas",
+              "description": "Open-source deep research harness for building cited web research agents with ledger-based coverage audits, pluggable search providers, and Steel-backed browser fetches.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Research Agent for the Open Web",
+                "homepage": "https://steel.dev",
+                "id": 1239209837,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-17T08:36:21Z",
+                "open_issues": 10,
+                "owner": "steel-dev",
+                "repo": "atlas",
+                "stars": 21,
+                "topics": [
+                  "ai-agents",
+                  "browser-automation",
+                  "deep-research",
+                  "web-scraping"
+                ]
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
+            },
+            {
+              "node_type": "item",
               "title": "Hermes Connector",
               "description": "Unofficial open-source Chrome extension and local companion that let Hermes Agent control only explicitly attached tabs in a user's Chrome session.",
               "children": [],
@@ -692,32 +718,6 @@
                   "local-first",
                   "manifest-v3",
                   "web-agent"
-                ]
-              },
-              "first_seen": "2026-08-29T00:58:07.016Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Atlas",
-              "description": "Open-source deep research harness for building cited web research agents with ledger-based coverage audits, pluggable search providers, and Steel-backed browser fetches.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Research Agent for the Open Web",
-                "homepage": "https://steel.dev",
-                "id": 1239209837,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-09-17T08:36:21Z",
-                "open_issues": 10,
-                "owner": "steel-dev",
-                "repo": "atlas",
-                "stars": 20,
-                "topics": [
-                  "ai-agents",
-                  "browser-automation",
-                  "deep-research",
-                  "web-scraping"
                 ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
@@ -791,7 +791,7 @@
             "open_issues": 9,
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6936,
+            "stars": 6939,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -890,7 +890,7 @@
             "id": 1183525901,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T19:05:15Z",
+            "last_commit": "2026-09-22T04:04:13Z",
             "open_issues": 1,
             "owner": "plasmate-labs",
             "repo": "plasmate",
@@ -1039,7 +1039,7 @@
             "open_issues": 48,
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 813,
+            "stars": 823,
             "topics": [
               "agent-evaluation",
               "agentic-ai",
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:03:12.210Z",
+    "last_updated": "2026-09-22T20:11:40.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
@@ -1100,10 +1100,10 @@
       "language": "Python",
       "license": "NOASSERTION",
       "last_commit": "2026-08-25T20:49:01Z",
-      "open_issues": 21,
+      "open_issues": 22,
       "owner": "steel-dev",
       "repo": "awesome-web-agents",
-      "stars": 1572,
+      "stars": 1573,
       "topics": [
         "ai",
         "ai-agents",
