@@ -19,7 +19,7 @@
             "open_issues": 219,
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36291,
+            "stars": 36294,
             "topics": [
               "agent",
               "agentgpt",
@@ -56,7 +56,7 @@
             "open_issues": 97,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19985,
+            "stars": 19989,
             "topics": [
               "agent",
               "alibaba",
@@ -87,7 +87,7 @@
             "open_issues": 13,
             "owner": "accomplish-ai",
             "repo": "coworker",
-            "stars": 10891,
+            "stars": 10888,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
@@ -129,7 +129,7 @@
             "open_issues": 12,
             "owner": "MinorJerry",
             "repo": "WebVoyager",
-            "stars": 1126,
+            "stars": 1127,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
@@ -184,11 +184,11 @@
                 "id": 666299222,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T00:07:23Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-23T22:10:58Z",
+                "open_issues": 1,
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68416,
+                "stars": 68431,
                 "topics": [
                   "acp",
                   "coding-agent",
@@ -217,7 +217,7 @@
                 "open_issues": 58,
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11519,
+                "stars": 11521,
                 "topics": [
                   "research"
                 ]
@@ -297,7 +297,7 @@
             "open_issues": 0,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 889,
+            "stars": 887,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -358,11 +358,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T20:14:33Z",
-                "open_issues": 554,
+                "last_commit": "2026-09-24T20:25:16Z",
+                "open_issues": 537,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187515,
+                "stars": 187525,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -395,7 +395,7 @@
                 "open_issues": 72,
                 "owner": "bytebot-ai",
                 "repo": "bytebot",
-                "stars": 11085,
+                "stars": 11086,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -436,7 +436,7 @@
                 "open_issues": 51,
                 "owner": "microsoft",
                 "repo": "Webwright",
-                "stars": 6017,
+                "stars": 6019,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
@@ -457,7 +457,7 @@
                 "open_issues": 8,
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 5988,
+                "stars": 6004,
                 "topics": [
                   "agent-infrastructure",
                   "ai-agents",
@@ -490,16 +490,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Your Playwright code runs on a real anti-detect Firefox instead of a detectable one, with the same API and an undetected fingerprint, so web scraping and browser automation in Python bypass captcha and anti-bot detection.",
+                "description": "Playwright that anti-bots cannot see, so no captchas: same API, anti-detect stealth headless Firefox, undetected fingerprint, bypass bot detection, Python web scraping and browser automation.",
                 "homepage": null,
                 "id": 1237338198,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-23T18:48:21Z",
+                "last_commit": "2026-09-23T22:10:06Z",
                 "open_issues": 3,
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 2963,
+                "stars": 2968,
                 "topics": [
                   "akamai",
                   "antibot",
@@ -538,10 +538,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T10:19:28Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "agentrhq",
                 "repo": "webcmd",
-                "stars": 2279,
+                "stars": 2493,
                 "topics": [
                   "ai-agents",
                   "browser-automation",
@@ -596,7 +596,7 @@
                 "id": 941344611,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-23T01:07:04Z",
+                "last_commit": "2026-09-24T19:56:48Z",
                 "open_issues": 5,
                 "owner": "hud-evals",
                 "repo": "hud-python",
@@ -791,7 +791,7 @@
             "open_issues": 9,
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6939,
+            "stars": 6938,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -826,7 +826,7 @@
             "open_issues": 15,
             "owner": "xlang-ai",
             "repo": "OpenAgents",
-            "stars": 4862,
+            "stars": 4861,
             "topics": [
               "agent",
               "assistant-chat-bots",
@@ -1014,7 +1014,7 @@
             "open_issues": 41,
             "owner": "ServiceNow",
             "repo": "BrowserGym",
-            "stars": 1373,
+            "stars": 1375,
             "topics": [
               "ai",
               "llm",
@@ -1039,7 +1039,7 @@
             "open_issues": 51,
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 835,
+            "stars": 841,
             "topics": [
               "agent-evaluation",
               "agentic-ai",
@@ -1077,8 +1077,8 @@
             "id": 764848724,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T20:18:44Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-24T14:17:51Z",
+            "open_issues": 26,
             "owner": "ServiceNow",
             "repo": "WorkArena",
             "stars": 274,
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:20:33.240Z",
+    "last_updated": "2026-09-24T20:29:20.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
@@ -1100,10 +1100,10 @@
       "language": "Python",
       "license": "NOASSERTION",
       "last_commit": "2026-08-25T20:49:01Z",
-      "open_issues": 22,
+      "open_issues": 24,
       "owner": "steel-dev",
       "repo": "awesome-web-agents",
-      "stars": 1573,
+      "stars": 1572,
       "topics": [
         "ai",
         "ai-agents",
