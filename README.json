@@ -56,7 +56,7 @@
             "open_issues": 97,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19989,
+            "stars": 19990,
             "topics": [
               "agent",
               "alibaba",
@@ -87,7 +87,7 @@
             "open_issues": 13,
             "owner": "accomplish-ai",
             "repo": "coworker",
-            "stars": 10888,
+            "stars": 10887,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
@@ -146,11 +146,11 @@
             "id": 1226385452,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T11:44:45Z",
+            "last_commit": "2026-09-25T08:08:53Z",
             "open_issues": 0,
             "owner": "jasonzliang",
             "repo": "caesar-agent",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "agentic-ai",
               "agentic-rag",
@@ -184,11 +184,11 @@
                 "id": 666299222,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T22:10:58Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-25T12:22:25Z",
+                "open_issues": 3,
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68431,
+                "stars": 68439,
                 "topics": [
                   "acp",
                   "coding-agent",
@@ -217,7 +217,7 @@
                 "open_issues": 58,
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11521,
+                "stars": 11523,
                 "topics": [
                   "research"
                 ]
@@ -276,7 +276,7 @@
             "open_issues": 15,
             "owner": "ishan0102",
             "repo": "vimGPT",
-            "stars": 2647,
+            "stars": 2648,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
@@ -358,11 +358,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T20:25:16Z",
-                "open_issues": 537,
+                "last_commit": "2026-09-25T19:58:58Z",
+                "open_issues": 556,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187525,
+                "stars": 187557,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -436,7 +436,7 @@
                 "open_issues": 51,
                 "owner": "microsoft",
                 "repo": "Webwright",
-                "stars": 6019,
+                "stars": 6020,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
@@ -457,7 +457,7 @@
                 "open_issues": 8,
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 6004,
+                "stars": 6013,
                 "topics": [
                   "agent-infrastructure",
                   "ai-agents",
@@ -495,11 +495,11 @@
                 "id": 1237338198,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-23T22:10:06Z",
+                "last_commit": "2026-09-25T13:41:53Z",
                 "open_issues": 3,
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 2968,
+                "stars": 2970,
                 "topics": [
                   "akamai",
                   "antibot",
@@ -537,11 +537,11 @@
                 "id": 1287114669,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T10:19:28Z",
-                "open_issues": 60,
+                "last_commit": "2026-09-25T10:52:17Z",
+                "open_issues": 48,
                 "owner": "agentrhq",
                 "repo": "webcmd",
-                "stars": 2493,
+                "stars": 2552,
                 "topics": [
                   "ai-agents",
                   "browser-automation",
@@ -570,7 +570,7 @@
                 "open_issues": 17,
                 "owner": "reworkd",
                 "repo": "tarsier",
-                "stars": 1766,
+                "stars": 1767,
                 "topics": [
                   "gpt4v",
                   "llms",
@@ -596,8 +596,8 @@
                 "id": 941344611,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-24T19:56:48Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-25T10:16:16Z",
+                "open_issues": 3,
                 "owner": "hud-evals",
                 "repo": "hud-python",
                 "stars": 303,
@@ -1014,7 +1014,7 @@
             "open_issues": 41,
             "owner": "ServiceNow",
             "repo": "BrowserGym",
-            "stars": 1375,
+            "stars": 1376,
             "topics": [
               "ai",
               "llm",
@@ -1039,7 +1039,7 @@
             "open_issues": 51,
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 841,
+            "stars": 849,
             "topics": [
               "agent-evaluation",
               "agentic-ai",
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:29:20.197Z",
+    "last_updated": "2026-09-25T20:28:53.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
@@ -1100,7 +1100,7 @@
       "language": "Python",
       "license": "NOASSERTION",
       "last_commit": "2026-08-25T20:49:01Z",
-      "open_issues": 24,
+      "open_issues": 25,
       "owner": "steel-dev",
       "repo": "awesome-web-agents",
       "stars": 1572,
