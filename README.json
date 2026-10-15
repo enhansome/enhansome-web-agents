@@ -19,7 +19,7 @@
             "open_issues": 219,
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36278,
+            "stars": 36279,
             "topics": [
               "agent",
               "agentgpt",
@@ -56,7 +56,7 @@
             "open_issues": 96,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 20052,
+            "stars": 20053,
             "topics": [
               "agent",
               "alibaba",
@@ -87,7 +87,7 @@
             "open_issues": 13,
             "owner": "accomplish-ai",
             "repo": "coworker",
-            "stars": 10850,
+            "stars": 10846,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
@@ -150,7 +150,7 @@
             "open_issues": 0,
             "owner": "jasonzliang",
             "repo": "caesar-agent",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "agentic-ai",
               "agentic-rag",
@@ -185,10 +185,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-11T00:56:06Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68579,
+                "stars": 68582,
                 "topics": [
                   "acp",
                   "coding-agent",
@@ -217,7 +217,7 @@
                 "open_issues": 58,
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11595,
+                "stars": 11605,
                 "topics": [
                   "research"
                 ]
@@ -240,7 +240,7 @@
                 "open_issues": 108,
                 "owner": "OthersideAI",
                 "repo": "self-operating-computer",
-                "stars": 10293,
+                "stars": 10291,
                 "topics": [
                   "automation",
                   "openai",
@@ -297,7 +297,7 @@
             "open_issues": 1,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 904,
+            "stars": 906,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -358,11 +358,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T19:34:24Z",
-                "open_issues": 661,
+                "last_commit": "2026-10-15T20:18:00Z",
+                "open_issues": 681,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187573,
+                "stars": 187601,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -395,7 +395,7 @@
                 "open_issues": 73,
                 "owner": "bytebot-ai",
                 "repo": "bytebot",
-                "stars": 11071,
+                "stars": 11070,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -436,7 +436,7 @@
                 "open_issues": 9,
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 6144,
+                "stars": 6151,
                 "topics": [
                   "agent-infrastructure",
                   "ai-agents",
@@ -478,7 +478,7 @@
                 "open_issues": 55,
                 "owner": "microsoft",
                 "repo": "CUAWright",
-                "stars": 6056,
+                "stars": 6064,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
@@ -495,11 +495,11 @@
                 "id": 1237338198,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T19:53:13Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-15T12:45:57Z",
+                "open_issues": 5,
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 3149,
+                "stars": 3154,
                 "topics": [
                   "akamai",
                   "anti-detect-browser",
@@ -541,7 +541,7 @@
                 "open_issues": 50,
                 "owner": "agentrhq",
                 "repo": "webcmd",
-                "stars": 2711,
+                "stars": 2713,
                 "topics": [
                   "ai-agents",
                   "browser-automation",
@@ -596,8 +596,8 @@
                 "id": 941344611,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T18:08:22Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-15T15:23:47Z",
+                "open_issues": 19,
                 "owner": "hud-evals",
                 "repo": "hud-python",
                 "stars": 311,
@@ -664,6 +664,40 @@
             },
             {
               "node_type": "item",
+              "title": "Hermes Connector",
+              "description": "Unofficial open-source Chrome extension and local companion that let Hermes Agent control only explicitly attached tabs in a user's Chrome session.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Chrome browser extension for Hermes Agent — exact sessions, user-selected tabs, and local-first browser control.",
+                "homepage": "https://corsenai.github.io/hermes-connector/",
+                "id": 1307026151,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-13T19:50:45Z",
+                "open_issues": 1,
+                "owner": "CorsenAI",
+                "repo": "hermes-connector",
+                "stars": 25,
+                "topics": [
+                  "ai-agent",
+                  "ai-browser-agent",
+                  "browser-automation",
+                  "browser-control",
+                  "browser-extension",
+                  "chrome-extension",
+                  "chrome-side-panel",
+                  "hermes-agent",
+                  "hermes-plugin",
+                  "local-first",
+                  "manifest-v3",
+                  "web-agent"
+                ]
+              },
+              "first_seen": "2026-08-29T00:58:07.016Z"
+            },
+            {
+              "node_type": "item",
               "title": "Atlas",
               "description": "Open-source deep research harness for building cited web research agents with ledger-based coverage audits, pluggable search providers, and Steel-backed browser fetches.",
               "children": [],
@@ -684,40 +718,6 @@
                   "browser-automation",
                   "deep-research",
                   "web-scraping"
-                ]
-              },
-              "first_seen": "2026-08-29T00:58:07.016Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Hermes Connector",
-              "description": "Unofficial open-source Chrome extension and local companion that let Hermes Agent control only explicitly attached tabs in a user's Chrome session.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Chrome browser extension for Hermes Agent — exact sessions, user-selected tabs, and local-first browser control.",
-                "homepage": "https://corsenai.github.io/hermes-connector/",
-                "id": 1307026151,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-13T19:50:45Z",
-                "open_issues": 1,
-                "owner": "CorsenAI",
-                "repo": "hermes-connector",
-                "stars": 24,
-                "topics": [
-                  "ai-agent",
-                  "ai-browser-agent",
-                  "browser-automation",
-                  "browser-control",
-                  "browser-extension",
-                  "chrome-extension",
-                  "chrome-side-panel",
-                  "hermes-agent",
-                  "hermes-plugin",
-                  "local-first",
-                  "manifest-v3",
-                  "web-agent"
                 ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
@@ -791,7 +791,7 @@
             "open_issues": 9,
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6937,
+            "stars": 6940,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -890,7 +890,7 @@
             "id": 1183525901,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T20:02:10Z",
+            "last_commit": "2026-10-15T20:01:24Z",
             "open_issues": 1,
             "owner": "plasmate-labs",
             "repo": "plasmate",
@@ -1039,7 +1039,7 @@
             "open_issues": 53,
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 1030,
+            "stars": 1043,
             "topics": [
               "agent-evaluation",
               "agentic-ai",
@@ -1091,7 +1091,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:40:55.280Z",
+    "last_updated": "2026-10-15T20:19:51.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
@@ -1100,10 +1100,10 @@
       "language": "Python",
       "license": "NOASSERTION",
       "last_commit": "2026-08-25T20:49:01Z",
-      "open_issues": 42,
+      "open_issues": 45,
       "owner": "steel-dev",
       "repo": "awesome-web-agents",
-      "stars": 1591,
+      "stars": 1593,
       "topics": [
         "ai",
         "ai-agents",
