@@ -19,7 +19,7 @@
             "open_issues": 219,
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36262,
+            "stars": 36261,
             "topics": [
               "agent",
               "agentgpt",
@@ -53,10 +53,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-02-27T13:12:11Z",
-            "open_issues": 102,
+            "open_issues": 103,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 20120,
+            "stars": 20125,
             "topics": [
               "agent",
               "alibaba",
@@ -87,7 +87,7 @@
             "open_issues": 13,
             "owner": "accomplish-ai",
             "repo": "coworker",
-            "stars": 10803,
+            "stars": 10804,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
@@ -108,10 +108,52 @@
             "open_issues": 23,
             "owner": "EmergenceAI",
             "repo": "Agent-E",
-            "stars": 1253,
+            "stars": 1254,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CUGA",
+          "description": "IBM Research's open-source agent that runs tasks in the browser (Playwright or a Chrome extension), over APIs, or both in one task.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CUGA is an open-source generalist agent harness for the enterprise, supporting complex task execution on web and APIs, OpenAPI/MCP integrations, composable architecture, reasoning modes, and policy-aware features.",
+            "homepage": "https://cuga.dev",
+            "id": 1054838518,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-10T21:15:51Z",
+            "open_issues": 264,
+            "owner": "cuga-project",
+            "repo": "cuga-agent",
+            "stars": 1144,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "ai-agents",
+              "coding-agent",
+              "computer-use",
+              "enterprise",
+              "generalist-agent",
+              "guardrails",
+              "hacktoberfest",
+              "harness",
+              "knowledge",
+              "langgraph",
+              "llm",
+              "mcp",
+              "multi-agent",
+              "openapi",
+              "policies",
+              "python",
+              "rag",
+              "sandbox"
+            ]
+          },
+          "first_seen": "2026-11-10T22:21:20.122Z"
         },
         {
           "node_type": "item",
@@ -129,10 +171,40 @@
             "open_issues": 12,
             "owner": "MinorJerry",
             "repo": "WebVoyager",
-            "stars": 1129,
+            "stars": 1130,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
+        },
+        {
+          "node_type": "item",
+          "title": "qz",
+          "description": "Open-source browser agent from Alibaba that runs as a Chrome extension in the user's signed-in browser, with a CLI and MCP server so coding agents such as Claude Code and Codex can hand it web tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Local-first AI agent for Chrome: browser automation, web research, and data extraction with your own model.",
+            "homepage": "https://alibaba.github.io/qz-browser-agent/",
+            "id": 1414925464,
+            "language": "HTML",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-08T10:18:52Z",
+            "open_issues": 11,
+            "owner": "alibaba",
+            "repo": "qz-browser-agent",
+            "stars": 214,
+            "topics": [
+              "ai-agent",
+              "browser-agent",
+              "browser-automation",
+              "chrome-extension",
+              "llm",
+              "mcp",
+              "web-agent",
+              "web-scraping"
+            ]
+          },
+          "first_seen": "2026-11-10T22:21:20.122Z"
         },
         {
           "node_type": "item",
@@ -184,11 +256,11 @@
                 "id": 666299222,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T01:22:10Z",
-                "open_issues": 38,
+                "last_commit": "2026-11-10T16:55:19Z",
+                "open_issues": 40,
                 "owner": "openinterpreter",
                 "repo": "openinterpreter",
-                "stars": 68851,
+                "stars": 68853,
                 "topics": [
                   "acp",
                   "coding-agent",
@@ -217,7 +289,7 @@
                 "open_issues": 59,
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11694,
+                "stars": 11696,
                 "topics": [
                   "research"
                 ]
@@ -240,7 +312,7 @@
                 "open_issues": 111,
                 "owner": "OthersideAI",
                 "repo": "self-operating-computer",
-                "stars": 10303,
+                "stars": 10304,
                 "topics": [
                   "automation",
                   "openai",
@@ -293,11 +365,11 @@
             "id": 1232322871,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T08:01:58Z",
+            "last_commit": "2026-11-10T19:51:13Z",
             "open_issues": 7,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 850,
+            "stars": 852,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -358,11 +430,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T00:35:14Z",
-                "open_issues": 710,
+                "last_commit": "2026-11-10T22:20:10Z",
+                "open_issues": 722,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187975,
+                "stars": 187985,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -436,7 +508,7 @@
                 "open_issues": 11,
                 "owner": "browser-act",
                 "repo": "skills",
-                "stars": 6340,
+                "stars": 6342,
                 "topics": [
                   "agent-infrastructure",
                   "ai-agents",
@@ -478,7 +550,7 @@
                 "open_issues": 54,
                 "owner": "microsoft",
                 "repo": "CUAWright",
-                "stars": 6092,
+                "stars": 6091,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
@@ -499,7 +571,7 @@
                 "open_issues": 52,
                 "owner": "agentrhq",
                 "repo": "webcmd",
-                "stars": 2768,
+                "stars": 2769,
                 "topics": [
                   "ai-agents",
                   "browser-automation",
@@ -524,11 +596,11 @@
                 "id": 1237338198,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T20:13:48Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-10T19:17:25Z",
+                "open_issues": 9,
                 "owner": "feder-cr",
                 "repo": "invisible_playwright",
-                "stars": 2561,
+                "stars": 2567,
                 "topics": [
                   "akamai",
                   "anti-detect-browser",
@@ -596,11 +668,11 @@
                 "id": 941344611,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T00:25:39Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-10T22:21:03Z",
+                "open_issues": 8,
                 "owner": "hud-evals",
                 "repo": "hud-python",
-                "stars": 325,
+                "stars": 327,
                 "topics": [
                   "agents",
                   "evals",
@@ -614,6 +686,37 @@
                 ]
               },
               "first_seen": "2026-08-29T00:58:07.016Z"
+            },
+            {
+              "node_type": "item",
+              "title": "FSB (Full Self Browsing)",
+              "description": "Open-source Chrome extension and MCP server that lets MCP clients such as Claude Code, Codex, and Cursor drive the user's signed-in Chromium browser by reading the live DOM instead of screenshots.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "DOM-first AI browser automation for Chrome and MCP clients.",
+                "homepage": "https://full-selfbrowsing.com",
+                "id": 1028470147,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-11-10T04:37:15Z",
+                "open_issues": 9,
+                "owner": "fullselfbrowsing",
+                "repo": "FSB",
+                "stars": 205,
+                "topics": [
+                  "agents",
+                  "automation",
+                  "browser-agent",
+                  "chrome-extension",
+                  "full-self-browsing",
+                  "gemini-cli-extension",
+                  "lattice",
+                  "manifest-v3",
+                  "mcp"
+                ]
+              },
+              "first_seen": "2026-11-10T22:21:20.122Z"
             },
             {
               "node_type": "item",
@@ -791,7 +894,7 @@
             "open_issues": 10,
             "owner": "mishushakov",
             "repo": "llm-scraper",
-            "stars": 6953,
+            "stars": 6954,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -890,7 +993,7 @@
             "id": 1183525901,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T00:04:12Z",
+            "last_commit": "2026-11-10T22:01:33Z",
             "open_issues": 1,
             "owner": "plasmate-labs",
             "repo": "plasmate",
@@ -1011,10 +1114,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-09T10:23:58Z",
-            "open_issues": 52,
+            "open_issues": 55,
             "owner": "ServiceNow",
             "repo": "BrowserGym",
-            "stars": 1435,
+            "stars": 1436,
             "topics": [
               "ai",
               "llm",
@@ -1036,10 +1139,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T13:07:41Z",
-            "open_issues": 136,
+            "open_issues": 137,
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 1247,
+            "stars": 1255,
             "topics": [
               "agent-evaluation",
               "agentic-ai",
@@ -1085,13 +1188,76 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:07.016Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WebsiteBench",
+          "description": "Benchmark from TIGER-AI-Lab that tests whether agents can rebuild full-stack websites by exploring them in a browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Can AI agents rebuild websites through browser exploration?",
+            "homepage": "https://website-bench.com/",
+            "id": 1445663842,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-10T09:24:11Z",
+            "open_issues": 0,
+            "owner": "TIGER-AI-Lab",
+            "repo": "WebsiteBench",
+            "stars": 196,
+            "topics": [
+              "agent-evaluation",
+              "ai",
+              "ai-agents",
+              "benchmark",
+              "benchmarking",
+              "browser-automation",
+              "browser-use",
+              "full-stack",
+              "harbor",
+              "harbor-framework",
+              "llm",
+              "llm-benchmark",
+              "llm-benchmarking",
+              "llm-benchmarks",
+              "reverse-engineering",
+              "swe-bench",
+              "visual-evaluation",
+              "web-agents",
+              "web-development",
+              "website-reconstruction"
+            ]
+          },
+          "first_seen": "2026-11-10T22:21:20.122Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Next-Gen CAPTCHAs",
+          "description": "Scalable CAPTCHA defense framework and benchmark (ICML 2026) for evaluating multimodal web GUI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ICML 2026]A defense framework against MLLM-based web GUI agents. This repository provides both the generative CAPTCHA system and tools for evaluating agent resistance.",
+            "homepage": "https://jiachengliu12345.github.io/NextGen-CAPTCHAs_webpage/",
+            "id": 1153599685,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-23T14:49:20Z",
+            "open_issues": 0,
+            "owner": "MetaAgentX",
+            "repo": "NextGen-CAPTCHAs",
+            "stars": 30,
+            "topics": []
+          },
+          "first_seen": "2026-11-10T22:21:20.122Z"
         }
       ],
       "title": "Benchmarks & Research"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:40:35.580Z",
+    "last_updated": "2026-11-10T22:21:20.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔥 A list of tools, frameworks, and resources for building AI web agents",
@@ -1099,11 +1265,11 @@
       "id": 943686184,
       "language": "Python",
       "license": "NOASSERTION",
-      "last_commit": "2026-08-25T20:49:01Z",
-      "open_issues": 81,
+      "last_commit": "2026-11-10T20:42:56Z",
+      "open_issues": 70,
       "owner": "steel-dev",
       "repo": "awesome-web-agents",
-      "stars": 1603,
+      "stars": 1606,
       "topics": [
         "ai",
         "ai-agents",
@@ -1114,7 +1280,7 @@
         "llms-benchmarking"
       ]
     },
-    "original_repository_sha": "ad74156dc85ccf4a9501fed9c1169a53073860dc",
+    "original_repository_sha": "a2a398d6e43bf2c2bcf92edb9976966244f02681",
     "enhanced_repository": "enhansome/enhansome-web-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Web Agents with stars"
